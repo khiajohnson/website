@@ -25,16 +25,15 @@ I study phonetic and phonological variation in bilingual speech—broadly constr
 
 I have a couple different writing ideas, and they will be tagged as such. This part of the post is subject to future edits as the topic evolves. In any case, all errors are mine.
 
-1. SciComm for my research, or, writing up alternative versions of my published for for a non-specialist audience.
-2. More in-depth walkthroughs of the analyses in my publications and presentations. I aim to share scripts etc. in my OSF repository regardless of whether there's a blog post here.
+1. Scicomm (or, science communication) for my research. This could be writing up alternative versions of my publications for a non-specialist audience.
+2. More in-depth walkthroughs of the analyses in my publications and presentations. I aim to share scripts etc. in my [OSF repository](https://osf.io/aqwe2/) regardless of whether or not there's a blog post here.
 3. Language Data, or, tutorial/analysis style posts where I explore a question with an open-access or web-scraped data set. That might mean data visualization or analysis or both! TBD. 
 
 
-#### things I use
+#### some of the things I use
 
-- I mostly use RStudio along with the `tidyverse` and `brms` packages for statistics and data visualization
-- I like Python for most other things, like working with audio, interfacing with Praat via the fantastic `praat-parselmouth` package, and using any number of NLP tools. Right now I really 🧡 `pycantonese`. 
-- Various brilliant people doing corpus phonetics and related things maintain a variety of command line tools that you might see pop up here an there. 
-
-
+- I mostly use RStudio, the `tidyverse` and `brms` for statistics and data visualization
+- I also use Python, especially for working with audio, interfacing with Praat via the fantastic `praat-parselmouth` package, and using any number of NLP tools like `pycantonese`. 
+- Speaking of audio files... Praat, VoiceSauce, ELAN, and similar programs. 
+- Some brilliant people doing corpus phonetics maintain a variety of command line tools that you might see pop up here and there. 
 

@@ -7,9 +7,9 @@ theme = "anatole"
 title = "Khia A. Johnson"
 author = "Khia A. Johnson"
 description = "bilingual speech + psycholinguistics researcher"
-profilePicture = "images/profile.jpg"
+profilePicture = "/images/profile.jpg"
 keywords = ["bilingualism", "speech science", "psycholinguistics", "language data", "rstats"]
-favicon = "favicons/"
+favicon = "/favicons/"
 
 [[params.socialIcons]]
 icon = "fas fa-university"

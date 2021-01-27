@@ -2,6 +2,11 @@ baseURL = ""
 title = "Khia A. Johnson"
 languageCode = "en-us"
 theme = "anatole"
+customCss = ["css/style.css"]
+googleAnalytics = "UA-92518846-1"
+disqusShortname = "khiajohnson-com"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
 title = "Khia A. Johnson"
@@ -10,11 +15,21 @@ description = "bilingual speech + psycholinguistics researcher"
 profilePicture = "/images/profile.jpg"
 keywords = ["bilingualism", "speech science", "psycholinguistics", "language data", "rstats"]
 favicon = "/favicons/"
+indexDateFormat = "Jan 2, 2006"
+listDateFormat = "Jan 2"
+singleDateFormat = "Jan 2, 2006"
+disableThemeSwitcher = true
+
 
 [[params.socialIcons]]
 icon = "fas fa-university"
 title = "UBC"
 url = "https://linguistics.ubc.ca/profile/khia-johnson/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://www.twitter.com/khia_johnson/"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -25,11 +40,6 @@ url = "https://www.linkedin.com/in/khiajohnson/"
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/khiajohnson/"
-
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "twitter"
-url = "https://www.twitter.com/khia_johnson/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"

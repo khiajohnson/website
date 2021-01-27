@@ -14,6 +14,8 @@
     --tag-color: #424242;
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
+    --hover-color: #c4686a;
+    --link-color: #a83f43;
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
 }
@@ -41,17 +43,19 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: "Verdana", sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-size: 14px;
+    font-weight: 300;
+    line-height: 1.3em;
     width: 100%;
     margin: 0 auto 30px auto;
     background-color: var(--bg-color);
 }
 
 p {
-    line-height: 1.9em;
-    font-weight: 400;
-    font-size: 13px;
+    line-height: 1.6em;
+    font-weight: 300;
+    font-size: 15px;
 }
 
 a {
@@ -105,7 +109,7 @@ a:visited {
 
 a:hover,
 a:active {
-    color: #a83f43;
+    color: var(--hover-color);
 }
 
 /*basic styles ends*/
@@ -197,7 +201,7 @@ a:active {
     list-style: none;
     padding: 11px 30px;
     float: left;
-    font-size: 12px;
+    font-size: 13px;
     display: block;
     width: calc(100% - 30px);
 }
@@ -213,7 +217,7 @@ a:active {
 }
 
 .page-top .nav a:hover {
-    color: #a83f43;
+    color: var(--hover-color);
 }
 
 .page-top .nav a.current {
@@ -230,7 +234,7 @@ a:active {
 
 .page-top .information {
     float: right;
-    padding-top: 12px;
+    padding-top: 13px;
     padding-right: 20px;
 }
 
@@ -278,7 +282,7 @@ a:active {
 }
 
 .sidebar .logo-title .description {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .sidebar .logo-title .logo {
@@ -293,7 +297,7 @@ a:active {
 .sidebar .logo-title .title h3 {
     text-transform: uppercase;
     font-size: 2rem;
-    font-weight: bold;
+    font-weight: 600;
     letter-spacing: 2px;
     line-height: 1;
     margin: 1em;
@@ -303,13 +307,13 @@ a:active {
     text-decoration: none;
     color: var(--heading-color);
     font-size: 2rem;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .sidebar .social-links {
     list-style: none;
     padding: 0;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     flex: 7;
 }
@@ -329,7 +333,7 @@ a:active {
 }
 
 .sidebar .social-links a:hover {
-    color: #a83f43;
+    color: var(--hover-color);
 }
 
 .post {
@@ -358,7 +362,6 @@ a:active {
     letter-spacing: 1px;
     line-height: 1;
     font-weight: 600;
-    /* color: #464646; */
     color: var(--heading-color);
     font-size: 22px;
     margin: 0;
@@ -376,12 +379,12 @@ a:active {
 
 .post .post-content a {
     text-decoration: none;
-    font-weight: lighter; /*TEST*/
-    color: #a83f43;
+    font-weight: 500; /*TEST*/
+    color: var(--link-color);
 }
 
 .post .post-content a:hover {
-    color: #d4787a;
+    color: var(--hover-color);
 }
 
 .post .post-content h3 {
@@ -398,6 +401,10 @@ a:active {
     max-width: 100%;
 }
 
+.post .post-content li {
+    padding-bottom: 7px;
+}
+
 .post .post-footer {
     padding: 0 0 10px 0;
     border-bottom: 1px solid var(--border-color);
@@ -411,7 +418,7 @@ a:active {
 
 .post .post-footer .meta .info {
     float: left;
-    font-size: 12px;
+    font-size: 13px;
     margin-bottom: 1em;
     color: var(--body-color);
 }
@@ -439,7 +446,7 @@ a:active {
 }
 
 .post .post-footer .meta a:hover {
-    color: #a83f43;
+    color: var(--hover-color);
 }
 
 .post .post-footer .meta i {
@@ -448,7 +455,7 @@ a:active {
 
 .post .post-footer .tags {
     padding-bottom: 15px;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .post .post-footer .tags ul {
@@ -503,7 +510,7 @@ a:active {
     list-style: none;
     margin: 0;
     padding: 0;
-    height: 13px;
+    height: 14px;
 }
 
 .pagination ul li {
@@ -567,7 +574,7 @@ a:active {
 }
 
 .footer a:hover {
-    color: #a83f43;
+    color: var(--hover-color);
 }
 
 /*for archive*/
@@ -576,7 +583,7 @@ a:active {
 }
 
 .list-with-title {
-    font-size: 14px;
+    font-size: 15px;
     margin: 30px;
     padding: 0;
 }
@@ -611,7 +618,7 @@ a:active {
 }
 
 .list-with-title .listing .listing-post a:hover {
-    color: #a83f43;
+    color: var(--hover-color);
 }
 
 /* share */
@@ -631,7 +638,7 @@ a:active {
 .evernote a {
     color: #fff;
     padding: 11px;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .evernote a:hover {
@@ -705,7 +712,7 @@ a:active {
 }
 
 .read_more {
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .back-button {
@@ -736,7 +743,7 @@ a.btn {
     outline: 0;
     color: var(--post-color);
     background: transparent;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
@@ -753,7 +760,7 @@ a.btn {
     outline: 0px;
     color: #464545;
     background: transparent;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
@@ -780,7 +787,7 @@ a.btn {
 }
 
 [role="tags"] {
-    padding: 6px 12px;
+    padding: 6px 13px;
 }
 
 /* Menu */
@@ -805,7 +812,7 @@ a.btn {
     outline: 0;
     color: var(--post-color);
     background: transparent;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
@@ -823,7 +830,7 @@ a.btn {
     outline: 0;
     color: #fff;
     background: #3CBD10;
-    font-size: 14px;
+    font-size: 15px;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
@@ -1048,7 +1055,7 @@ print {
     box-sizing: border-box; 
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box; 
-    font-size: 14px;
+    font-size: 15px;
     padding: 8px;
     outline: none;
     background-color: var(--bg-color);

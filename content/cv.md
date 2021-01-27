@@ -54,9 +54,9 @@ Johnson, K. A. & Babel, M. (2020). The role of passage length in acoustic voice 
 
 Lloy, A., Johnson, K. A., & Babel, M. (2020). Bilingual talker identification with spontaneous speech in Cantonese and English: The role of language-specific knowledge. The 179th Meeting of the Acoustical Society of America, Virtual, December 7–11.
 
-Johnson, K. A. & Babel, M. (2019). Bilingual sibilant acoustics in conversational Cantonese-English speech. The 178th Meeting of the Acoustical Society ofAmerica, San Diego, USA, December 2–6. [[poster]](https://drive.google.com/file/d/1Xl0Ku06ycDuo1xDkV1Gm10bCObEMDO1B/view)
+Johnson, K. A. & Babel, M. (2019). Bilingual sibilant acoustics in conversational Cantonese-English speech. The 178th Meeting of the Acoustical Society of America, San Diego, USA, December 2–6. [[poster]](https://drive.google.com/file/d/1Xl0Ku06ycDuo1xDkV1Gm10bCObEMDO1B/view)
 
-Chan, L., Johnson, K. A. & Babel, M. (2019). Lexically-guided perceptual learning in Cantonese-English bilinguals: A web replication study. The 178th Meeting of the Acoustical Society ofAmerica, San Diego, USA, December 2–6. [[poster]](https://drive.google.com/file/d/1RDC8uld6NlmDW_CVWkDet4wvwp2GeXtz/view)
+Chan, L., Johnson, K. A. & Babel, M. (2019). Lexically-guided perceptual learning in Cantonese-English bilinguals: A web replication study. The 178th Meeting of the Acoustical Society of America, San Diego, USA, December 2–6. [[poster]](https://drive.google.com/file/d/1RDC8uld6NlmDW_CVWkDet4wvwp2GeXtz/view)
 
 Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cantonese and English. The 178th Meeting of the Acoustical Society of America, Victoria, Canada, November 5–9. [[poster]](https://drive.google.com/file/d/1duy2tXt5T5Ei8XVYzpA0e5laelfASI-y/view)
 

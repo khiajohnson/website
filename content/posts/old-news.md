@@ -2,17 +2,18 @@
 author = "Khia A. Johnson"
 title = "Old news"
 date = "2021-01-26"
-description = "The news section from my old website"
+description = "The news section from my old website."
 tags = [
-    "scicomm",
+    "research",
     "linguistics",
 ]
-series = [""]
-aliases = [""]
+categories = [
+	"scicomm", 
+	"keysmash",
+	]
 +++
 
-These are short blurbs from the news section of my old website. Not a lot of detail, but there are plenty of links! Some of these items might get a more in depth treatment as I build out this blog. 
-<!--more-->
+These are short blurbs from the news section of my old website. Not a lot of detail, but there are plenty of links! Some of these items might get a more in depth treatment as I build out this blog. <!--more-->
 
 - December 16, 2020: I presented my work on bilingual acoustic voice variation from both Interspeech 2020 and ASA 179 for the UBC Deep Learning and Natural Language Processing Lab. [Check out my slides here](https://github.com/UBC-NLP/dl-nlp-rg/blob/master/slides/20201216_voice-variability-for-ubc-dl-nlp-lab.pdf).
 - December 9, 2020: New preprint on OSF with Molly Babel and Christina Sen on [Asymmetries in Perceptual Adjustments to Non-Canonical Pronunciations](https://osf.io/vdpbr/). 

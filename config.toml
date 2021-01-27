@@ -18,8 +18,6 @@ favicon = "/favicons/"
 indexDateFormat = "Jan 2, 2006"
 listDateFormat = "Jan 2"
 singleDateFormat = "Jan 2, 2006"
-disableThemeSwitcher = true
-
 
 [[params.socialIcons]]
 icon = "fas fa-university"
@@ -45,7 +43,6 @@ url = "https://github.com/khiajohnson/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:khia.johnson@ubc.ca"
-
 
 [menu]
 

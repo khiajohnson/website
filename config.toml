@@ -1,0 +1,58 @@
+baseURL = "https://khiajohnson.com"
+title = "Khia A. Johnson"
+languageCode = "en-us"
+theme = "anatole"
+
+[params]
+title = "Khia A. Johnson"
+author = "Khia A. Johnson"
+description = "bilingual speech + psycholinguistics researcher"
+profilePicture = "images/profile.jpg"
+keywords = ["bilingualism", "speech science", "psycholinguistics", "language data", "rstats"]
+favicon = "favicons/"
+
+[[params.socialIcons]]
+icon = "fas fa-university"
+title = "UBC"
+url = "https://linguistics.ubc.ca/profile/khia-johnson/"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/khiajohnson/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/khiajohnson/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://www.twitter.com/khia_johnson/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:khia.johnson@ubc.ca"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "research/cv"
+  weight = 200
+  identifier = "cv"
+  url = "/cv/"
+
+  [[menu.main]]
+  name = "archive"
+  weight = 300
+  identifier = "archive"
+  url = "/posts/"  

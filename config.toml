@@ -62,4 +62,4 @@ url = "mailto:khia.johnson@ubc.ca"
   name = "archive"
   weight = 300
   identifier = "archive"
-  url = "/posts/"  
+  url = "/post/"  

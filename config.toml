@@ -2,16 +2,21 @@ baseURL = ""
 title = "Khia A. Johnson"
 languageCode = "en-us"
 theme = "anatole"
-customCss = ["css/style.css"]
+
+customCss = ["css/style.css", "layouts/sidebar.html"]
 googleAnalytics = "UA-92518846-1"
 disqusShortname = "khiajohnson-com"
+
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+
 
 [params]
 title = "Khia A. Johnson"
 author = "Khia A. Johnson"
-description = "bilingual speech + psycholinguistics researcher"
+description = "bilingual speech, psycholinguistics, & corpus methods"
+affiliation = "phd candidate at ubc linguistics"
+affiliationLink = "https://linguistics.ubc.ca/profile/khia-johnson/"
 profilePicture = "/images/profile.jpg"
 keywords = ["bilingualism", "speech science", "psycholinguistics", "language data", "rstats"]
 favicon = "/favicons/"

@@ -14,9 +14,10 @@
     --tag-color: #424242;
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
-    --hover-color: #66afad;
-    --link-color: #8cc3c1;
-    --button-hover-color: #eff7f6;
+    --hover-color: #7EAFAD;
+    --link-color: #6bc9c6 ;
+    --button-hover-color: #D1E7E6;
+    --nav-ul-cover:#7EAFAD;
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
 }
@@ -35,7 +36,11 @@ html[data-theme='dark'] {
     --tag-color: rgb(191, 191, 191);
     --blockquote-text-color: #808080;
     --blockquote-border-color: #424242;
-    --button-hover-color: #2c3a3d;
+    --button-hover-color: #486665 ;
+    --nav-ul-cover: #486665 ;
+    --link-color: #4e9693;
+    --hover-color: #486665 ;
+
 }
 
 html {
@@ -46,16 +51,16 @@ html {
 body {
     color: var(--body-color);
     font-family: "Open Sans", sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 300;
-    line-height: 1.3em;
-    width: 100%;
+    line-height: 1.4em;
+    width: 98%;
     margin: 0 auto 30px auto;
     background-color: var(--bg-color);
 }
 
 p {
-    line-height: 1.6em;
+    line-height: 1.4em;
     font-weight: 300;
     font-size: 15px;
 }
@@ -227,9 +232,9 @@ a:active {
 }
 
 .page-top .nav a.current {
-    color: var(--nav-text-color);
-    padding-bottom: 22px;
-    border-bottom: 1px solid var(--nav-text-color);
+    opacity: 0.6;
+    padding-bottom: 18px;
+    border-bottom: 1px solid;
 }
 
 .theme-switch-item {

@@ -37,7 +37,7 @@ Johnson, K. A., Babel, M., & Fuhrman, R. A. (2020). Bilingual Acoustic Voice Var
 
 Johnson, K. A., Babel, M., Fong, I., & Yiu, N. (2020). SpiCE: A New Open-Access Corpus of Conversational Bilingual Speech in Cantonese and English. Proceedings of the 12th Language Resources and Evaluation Conference, 4089–4095. [[paper]](https://www.aclweb.org/anthology/2020.lrec-1.503)
 
-Chan, L., Johnson, K. A., & Babel, M. (2020). Lexically-guided perceptual learning in early Cantonese-English bilinguals. The Journal of the Acoustical Society of America, 147(3), EL277–EL282. doi:10.1121/10.0000942 [[paper]](https://drive.google.com/file/d/1gRvQ8LU8nmmKgNZslzBKEfGU9WWtI-a3/view)
+Chan, L., Johnson, K. A., & Babel, M. (2020). Lexically-guided perceptual learning in early Cantonese-English bilinguals. The Journal of the Acoustical Society of America, 147(3), EL277–EL282. doi:10.1121/10.0000942 [[paper]](https://asa.scitation.org/doi/full/10.1121/10.0000942)
 
 Johnson, K. A. (2019). Probabilistic reduction in Spanish-English bilingual speech. Proceedings of the 19th International Congress of Phonetic Sciences, 1263–1267. [[paper]](http://www.assta.org/proceedings/ICPhS2019/papers/ICPhS_1312.pdf) [[slides]](https://drive.google.com/file/d/1V69SKg24kMlh79RVGeWzFmoyO-dzYn3M/view)
 

@@ -56,7 +56,7 @@ Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhD
 
 ## conference presentations
 
-🔜 Johnson, K. A. & Babel, M. (Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Nijmegen, the Netherlands. *Postponed due to COVID-19* [[abstract]](https://drive.google.com/file/d/1ni9ohb0GPHMcBG9kEE6Kl10y3sO62GJm/view)
+🔜 Johnson, K. A. & Babel, M. (Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Nijmegen, the Netherlands. *Postponed due to COVID-19*. [[abstract]](https://drive.google.com/file/d/1ni9ohb0GPHMcBG9kEE6Kl10y3sO62GJm/view)
 
 Johnson, K. A. & Babel, M. (2020). The role of passage length in acoustic voice variability in bilingual speech. The 179th Meeting of the Acoustical Society of America, Virtual, December 7–11. [[code & poster]](https://osf.io/b6hpx/)
 

@@ -9,6 +9,8 @@ draft: false
 
 🔜 2016–present, PhD in Linguistics, University of British Columbia (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
 
+🧠 2019, LSA 2019 Linguistic Institute, University of California, Davis
+
 🎓 2013, BA in Linguistics, University of Washington 
 
 

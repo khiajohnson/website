@@ -40,7 +40,7 @@ There's a few options. I'm focusing on R here. There's the [`simstudy` package](
 
 ### My very specific example R code
 
-So in this simulation, I'm considering the relationship between how three different sounds are pronounced in two different languages by bilinguals. There may or may not be a relationship across languages, but there very likely is one *within* languages. I'm working on refining the analysis between the pilot stage of this project which I was supposed to present at ISBPAC 3 last year&mdash;[Uniformity and crosslinguistic influence in Cantonese-English bilingual stops](https://drive.google.com/file/d/1ni9ohb0GPHMcBG9kEE6Kl10y3sO62GJm/view)&mdash;but alas... covid. 
+So in this simulation, I'm considering the relationship between how three different sounds are pronounced in two different languages by bilinguals. There may or may not be a relationship across languages, but there very likely is one *within* languages. I'm working on refining the analysis between the pilot stage of this project which I was supposed to present at ISBPAC 3 last year&mdash;[Uniformity and crosslinguistic influence in Cantonese-English bilingual stops](/pdfs/johnson-babel-isbpac3-abstract.pdf)&mdash;but alas... covid. 
 
 In terms of the simulation, that means I need to be able to set up different configurations of within-individual, within-language structure, and then explore whether the proposed analysis can address the question I'm asking. Since this is a post that's only focused on the simulation part, and there will be a paper coming eventually... I'll only include the simulation bit here. It's not exactly *elegant* code, but it does what I need it to.
 

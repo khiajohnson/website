@@ -32,7 +32,7 @@ draft: false
 
 🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
 
-🔜 Johnson, K. A. \& Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* 
+🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* 
 
 🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Manuscript almost complete!*
 
@@ -58,7 +58,7 @@ Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhD
 
 ## conference presentations
 
-🔜 Johnson, K. A. & Babel, M. (Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Nijmegen, the Netherlands. *Postponed due to COVID-19*. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf)
+🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf)
 
 Johnson, K. A. & Babel, M. (2020). The role of passage length in acoustic voice variability in bilingual speech. The 179th Meeting of the Acoustical Society of America, Virtual, December 7–11. [[poster]](/pdfs/johnson-babel-asa179-poster.pdf) [[materials]](https://osf.io/b6hpx/) 
 

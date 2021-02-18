@@ -23,7 +23,7 @@ I can think of a few reasons off the top of my head, but the two that really hit
 1. a way to iron out the details of an analysis *before* you see the results, and
 2. get a much much better understanding of interpreting interactions between categorical parameters in mixed effects models.
 
-The first reason is why I went down this rabbit hole, and second is the unexpected-but-extremely useful-and-important outcome that makes me want to play around with simulation more. [Categorical variable coding](https://stats.idre.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis-2/) is a post for another day, and hey, maybe it will feature data simulation! If you want more on that topic now, check out this fantastic AMLaP 2020 talk on why it's [Time to set your contrasts](https://osf.io/jkpxt/)).
+The first reason is why I went down this rabbit hole, and second is the unexpected-but-extremely useful-and-important outcome that makes me want to play around with simulation more. [Categorical variable coding](https://stats.idre.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis-2/) is a post for another day, and hey, maybe it will feature data simulation! If you want more on that topic now, check out this fantastic AMLaP 2020 talk on why it's [Time to set your contrasts](https://osf.io/jkpxt/).
 
 ### How to simulate?
 

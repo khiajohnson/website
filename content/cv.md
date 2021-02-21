@@ -7,11 +7,11 @@ draft: false
 
 ## education
 
-🔜 2016–present, PhD in Linguistics, University of British Columbia (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
+🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
 
-⚙️ 2019, LSA 2019 Linguistic Institute, University of California, Davis
+⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/) (Courses: Advanced Statistics and Data Analysis, The Bilingual Brain, Introduction toProsody, and Information-Theoretic Approaches to Linguistics)
 
-🎓 2013, BA in Linguistics, University of Washington 
+🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
 
 
 ## primary research interests
@@ -33,11 +33,11 @@ draft: false
 
 ## papers
 
+🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Manuscript almost complete!*
+
 🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
 
 🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* 
-
-🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Manuscript almost complete!*
 
 Johnson, K. A., Babel, M., & Fuhrman, R. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Proceedings of Interspeech 2020, 2387–2391. doi:10.21437/Interspeech.2020-3095 [[open-access paper]](https://doi.org/10.21437/Interspeech.2020-3095) [[code]](https://osf.io/b6hpx/)
 

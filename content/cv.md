@@ -14,15 +14,18 @@ draft: false
 🎓 2013, BA in Linguistics, University of Washington 
 
 
-## research interests
+## primary research interests
 
-- phonetic and phonological variation in bilingual speech
-- processing and representation in mulitlingual sound systems
+- variation in speech production and perception
+- psycholinguistics of bilingualism (i.e., crosslinguistic influence, perceptual learning, talker identification and discrimination, listener biases, etc.)
 - bilinguals as a locus of contact-induced sound change 
-- probabilistic reduction and the role of linguistic experience
-- lexically-guided perceptual learning 
-- corpus-based and experimental methods
-- bayesian statistics and data visualization
+- probabilistic reduction as an outcome of linguistic experience
+
+## selected research methods
+- corpus phonetics
+- experimental design (lab/online)
+- bayesian statistics
+- exploratory data analysis
 
 ## data sets
 

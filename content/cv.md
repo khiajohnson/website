@@ -53,7 +53,7 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 ## invited talks
 
-🔜 Johnson, K. A. (2021). SpiCE: A new open-access corpus of conversational bilingual speech in Cantonese and English. New Empirical Contributions to Cantonese Linguistics and Language Processing, Virtual, February 28.
+Johnson, K. A. (2021). SpiCE: A new open-access corpus of conversational bilingual speech in Cantonese and English. New Empirical Contributions to Cantonese Linguistics and Language Processing, Virtual, February 28. [[slides]](/pdfs/johnson-cantonese-workshop-2021.pdf)
 
 Johnson, K. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Presentation for the UBC Deep Learning and Natural Language Processing Reading Group, December 16. [[slides]](/pdfs/johnson-ubc-dl-nlp-slides-2020.pdf)
 

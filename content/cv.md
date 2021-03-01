@@ -9,7 +9,7 @@ draft: false
 
 🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
 
-⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/) (Courses: Advanced Statistics and Data Analysis, The Bilingual Brain, Introduction toProsody, and Information-Theoretic Approaches to Linguistics)
+⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/) (Courses: Advanced Statistics and Data Analysis, The Bilingual Brain, Introduction to Prosody, and Information-Theoretic Approaches to Linguistics)
 
 🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
 

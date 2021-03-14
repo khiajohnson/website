@@ -9,7 +9,7 @@ draft: false
 
 🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
 
-⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/) (Courses: Advanced Statistics and Data Analysis, The Bilingual Brain, Introduction to Prosody, and Information-Theoretic Approaches to Linguistics)
+⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/)
 
 🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
 
@@ -17,15 +17,10 @@ draft: false
 ## primary research interests
 
 - variation in speech production and perception
-- psycholinguistics of bilingualism (i.e., crosslinguistic influence, perceptual learning, talker identification and discrimination, listener biases, etc.)
-- bilinguals as a locus of contact-induced sound change 
-- probabilistic reduction as an outcome of linguistic experience
-
-## selected research methods
+- psycholinguistics of bilingualism (e.g., crosslinguistic influence, perceptual learning, etc.)
+- bilingualism in contact-induced sound change 
+- probabilistic reduction as an outcome of (bilingual) linguistic experience
 - corpus phonetics
-- experimental design (lab/online)
-- bayesian statistics
-- exploratory data analysis
 
 ## data sets
 

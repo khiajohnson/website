@@ -37,7 +37,7 @@ draft: false
 
 🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
 
-🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* 
+🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
 
 Johnson, K. A., Babel, M., & Fuhrman, R. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Proceedings of Interspeech 2020, 2387–2391. doi:10.21437/Interspeech.2020-3095 [[open-access paper]](https://doi.org/10.21437/Interspeech.2020-3095) [[code]](https://osf.io/b6hpx/)
 

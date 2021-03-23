@@ -46,15 +46,11 @@ Johnson, K. A., Mellesmoen, G. M., Lo, R. Y.-H., & Gick, B. (2018). Prior pronun
 
 Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using multimedia resources to integrate ultrasound visualization for pronunciation instruction into postsecondary language classes. Journal of Linguistics and Language Teaching, 8(2), 173–188. [[open-access paper]](https://sites.google.com/site/linguisticsandlanguageteaching/home-1/volume-8-2017-issue-2/volume-8-2017-issue-2---article-bliss-et-al)
 
-## invited talks
-
-Johnson, K. A. (2021). SpiCE: A new open-access corpus of conversational bilingual speech in Cantonese and English. New Empirical Contributions to Cantonese Linguistics and Language Processing, Virtual, February 28. [[slides]](/pdfs/johnson-cantonese-workshop-2021.pdf)
-
-Johnson, K. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Presentation for the UBC Deep Learning and Natural Language Processing Reading Group, December 16. [[slides]](/pdfs/johnson-ubc-dl-nlp-slides-2020.pdf)
-
-Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhDs Go Public Research Talk Series: Bridging Communities. Vancouver Public Library—Central Branch, Vancouver, Canada, April 26. [[talk]](https://youtu.be/lMAhAQfaOlE)
-
 ## conference presentations
+
+🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14.
+
+🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14.
 
 🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf)
 
@@ -74,6 +70,14 @@ Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cant
 
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, USA,
 September 1–2.
+
+## invited talks
+
+Johnson, K. A. (2021). SpiCE: A new open-access corpus of conversational bilingual speech in Cantonese and English. New Empirical Contributions to Cantonese Linguistics and Language Processing, Virtual, February 28. [[slides]](/pdfs/johnson-cantonese-workshop-2021.pdf)
+
+Johnson, K. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Presentation for the UBC Deep Learning and Natural Language Processing Reading Group, December 16. [[slides]](/pdfs/johnson-ubc-dl-nlp-slides-2020.pdf)
+
+Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhDs Go Public Research Talk Series: Bridging Communities. Vancouver Public Library—Central Branch, Vancouver, Canada, April 26. [[talk]](https://youtu.be/lMAhAQfaOlE)
 
 
 **Still reading? [Here's a pdf version of my cv](/pdfs/johnson-cv.pdf).**

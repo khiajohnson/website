@@ -8,7 +8,6 @@ tags = [
 ]
 categories = [
 	"resources", 
-	"keysmash"
 	]
 +++
 

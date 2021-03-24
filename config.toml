@@ -6,10 +6,8 @@ theme = "anatole"
 customCss = ["css/style.css", "layouts/sidebar.html"]
 googleAnalytics = "UA-92518846-1"
 disqusShortname = "khiajohnson-com"
-
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-
 
 [params]
 title = "Khia A. Johnson"
@@ -23,6 +21,7 @@ favicon = "/favicons/"
 indexDateFormat = "Jan 2, 2006"
 listDateFormat = "Jan 2"
 singleDateFormat = "Jan 2, 2006"
+disableThemeSwitcher = true
 
 [[params.socialIcons]]
 icon = "fas fa-university"

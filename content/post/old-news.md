@@ -5,11 +5,10 @@ date = "2021-01-26"
 description = "The news section from my old website."
 tags = [
     "research",
-    "linguistics",
+    "news",
 ]
 categories = [
 	"scicomm", 
-	"keysmash",
 	]
 +++
 

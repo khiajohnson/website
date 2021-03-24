@@ -5,18 +5,18 @@ date = "2021-02-10"
 description = "A first go at data simulation"
 tags = [
     "rstats",
-    "linguistics",
+    "simulation",
+    "vot"
 ]
 categories = [
-	"tutorials",
-	"snippets",
+	"tutorial",
 	]
 +++
 
 I'm working on a project with a somewhat tricky analysis, and had hit a wall. I didn't want to just figure the analysis out as I went, for fear of baking researcher bias into the results, but also wasn't sure if the half-baked analysis would actually answer the question. Enter *data simulation*, a.k.a. something I should have done a long time ago. <!--more-->
 
 
-### Why simulate?
+### why simulate?
 
 I can think of a few reasons off the top of my head, but the two that really hit home for me as a psycholinguist-phonetician are:
 
@@ -25,7 +25,7 @@ I can think of a few reasons off the top of my head, but the two that really hit
 
 The first reason is why I went down this rabbit hole, and second is the unexpected-but-extremely useful-and-important outcome that makes me want to play around with simulation more. [Categorical variable coding](https://stats.idre.ucla.edu/spss/faq/coding-systems-for-categorical-variables-in-regression-analysis-2/) is a post for another day, and hey, maybe it will feature data simulation! If you want more on that topic now, check out this fantastic AMLaP 2020 talk on why it's [Time to set your contrasts](https://osf.io/jkpxt/).
 
-### How to simulate?
+### how to simulate?
 
 There's a few options. I'm focusing on R here. There's the [`simstudy` package](https://cran.r-project.org/web/packages/simstudy/index.html), which I haven't tried out yet, but was warned can be limited when dealing with complex structures. I have a complex structure, so I opted to just build the data using tidyverse-style code. In any case, the steps:
 
@@ -38,7 +38,7 @@ There's a few options. I'm focusing on R here. There's the [`simstudy` package](
 7. No? Tweak the analysis and try again!
 
 
-### My very specific example R code
+### my very specific example `R` code
 
 So in this simulation, I'm considering the relationship between how three different sounds are pronounced in two different languages by bilinguals. There may or may not be a relationship across languages, but there very likely is one *within* languages. I'm working on refining the analysis between the pilot stage of this project which I was supposed to present at ISBPAC 3 last year&mdash;[Uniformity and crosslinguistic influence in Cantonese-English bilingual stops](/pdfs/johnson-babel-isbpac3-abstract.pdf)&mdash;but alas... covid. 
 

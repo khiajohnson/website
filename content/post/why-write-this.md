@@ -4,15 +4,11 @@ title = "Why write this"
 date = "2021-01-26"
 description = "An introduction of sorts for this blog."
 tags = [
+    "introduction",
     "rstats",
-    "python",
-    "linguistics",
-    "research",
+    "python"
 ]
 categories = [
-	"scicomm", 
-	"analyses", 
-	"tutorials",
 	"keysmash",
 	]
 +++
@@ -25,7 +21,7 @@ I'm a PhD candidate in [Linguistics at the University of British Columbia](https
 
 #### what I (want to) write about
 
-I have a few writing ideas ("themes") for this blog. This part of the post is subject to future edits as the topic evolves. In any case, all errors are mine.
+I have a few writing ideas ("themes") for this blog, which will probably change over time. In any case, all errors are mine.
 
 1. **scicomm**, or *communicating science*: Writing up my published research for non-specialist audiences
 2. **analyses**, or *analyzing language data*: Verbose walkthroughs of the analyses in my papers, posters, and talks. I try to share this kind of thing in my [OSF repository](https://osf.io/aqwe2/), though most of what's there is supplementary to the papers, and doesn't stand alone.

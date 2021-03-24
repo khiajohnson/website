@@ -3,21 +3,20 @@
 :root {
     --bg-color: #fff;
     --secondary-bg-color: #f7f7f7;
-    --heading-color: #5f5f5f;
-    --body-color: rgba(0, 0, 0, 0.7);
+    --heading-color: #2B2B2B;
+    --body-color: #2B2B2B;
     --post-color: rgba(0, 0, 0, 0.44);
     --border-color: rgba(0, 0, 0, 0.15);
     --form-border-color: #9f9f9f;
     --form-button-hover-border-color: #000;
     --pre-bg-color: #f9f9fd;
-    --nav-text-color: #5a5a5a;
+    --nav-text-color: #262626;
     --tag-color: #424242;
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
-    --hover-color: #7EAFAD;
-    --link-color: #6bc9c6 ;
-    --button-hover-color: #D1E7E6;
-    --nav-ul-cover:#7EAFAD;
+    --hover-color: #277276;
+    --link-color: #2B8084;
+    --button-hover-color: #e0f4f5;
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
 }
@@ -37,7 +36,6 @@ html[data-theme='dark'] {
     --blockquote-text-color: #808080;
     --blockquote-border-color: #424242;
     --button-hover-color: #486665 ;
-    --nav-ul-cover: #486665 ;
     --link-color: #4e9693;
     --hover-color: #486665 ;
 
@@ -89,7 +87,7 @@ blockquote {
 
 .tag::before {
     content: "#";
-    opacity: .5;
+    opacity: .65;
 }
 
 .tag,
@@ -232,7 +230,7 @@ a:active {
 }
 
 .page-top .nav a.current {
-    opacity: 0.6;
+    opacity: 0.7;
     padding-bottom: 18px;
     border-bottom: 1px solid;
 }
@@ -389,8 +387,8 @@ a:active {
 }
 
 .post .post-content a {
-    text-decoration: none;
-    font-weight: lighter; /*link weight*/
+    text-decoration: underline;
+    text-decoration-style: dotted;
     color: var(--link-color);
 }
 

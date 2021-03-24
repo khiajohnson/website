@@ -17,7 +17,6 @@ affiliationLink = "https://linguistics.ubc.ca/profile/khia-johnson/"
 profilePicture = "/images/profile.jpg"
 keywords = ["bilingualism", "speech science", "psycholinguistics", "language data", "rstats", "phonetics", "voice", "corpus linguistics"]
 favicon = "/favicons/"
-images = ["/images/memoji.png"]
 indexDateFormat = "Jan 2, 2006"
 listDateFormat = "Jan 2"
 singleDateFormat = "Jan 2, 2006"

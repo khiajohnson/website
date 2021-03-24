@@ -5,7 +5,6 @@ theme = "anatole"
 
 customCss = ["css/style.css", "layouts/sidebar.html"]
 googleAnalytics = "UA-92518846-1"
-disqusShortname = "khiajohnson-com"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -18,10 +17,18 @@ affiliationLink = "https://linguistics.ubc.ca/profile/khia-johnson/"
 profilePicture = "/images/profile.jpg"
 keywords = ["bilingualism", "speech science", "psycholinguistics", "language data", "rstats", "phonetics", "voice", "corpus linguistics"]
 favicon = "/favicons/"
+images = ["/images/memoji.png"]
 indexDateFormat = "Jan 2, 2006"
 listDateFormat = "Jan 2"
 singleDateFormat = "Jan 2, 2006"
 disableThemeSwitcher = true
+
+[params.utterances]
+repo = "khiajohnson/website"
+issueTerm = "pathname"
+label="✨💬✨"
+theme="github-light"
+crossorigin="anonymous"
 
 [[params.socialIcons]]
 icon = "fas fa-university"

@@ -3,7 +3,6 @@ author = "Khia A. Johnson"
 title = "TextGrid ⇢ SQLite database in a few steps"
 date = "2021-03-23"
 description = "A short Python tutorial on setting up a SQLite database for textgrids"
-images = ["me_technologist.png"]
 tags = [
     "python",
     "sqlite",

@@ -41,6 +41,16 @@ html[data-theme='dark'] {
 
 }
 
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub { 
+  top: 0.4em; 
+}
+
+
 html {
     background-color: var(--bg-color);
     -webkit-font-smoothing: antialiased;
@@ -51,14 +61,14 @@ body {
     font-family: "Open Sans", sans-serif;
     font-size: 15px;
     font-weight: 300;
-    line-height: 1.4em;
+    line-height: 1.5em;
     width: 98%;
     margin: 0 auto 30px auto;
     background-color: var(--bg-color);
 }
 
 p {
-    line-height: 1.4em;
+    line-height: 1.5em;
     font-weight: 300;
     font-size: 15px;
 }
@@ -390,6 +400,10 @@ a:active {
     text-decoration: underline;
     text-decoration-style: dotted;
     color: var(--link-color);
+}
+
+.post .post-content a.footnote-ref {
+    text-decoration: none;
 }
 
 .post .post-content a:hover {

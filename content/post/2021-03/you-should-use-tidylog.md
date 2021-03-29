@@ -2,15 +2,17 @@
 author = "Khia A. Johnson"
 title = "You should use tidylog in your corpus phonetics workflow"
 date = "2021-03-29"
-description = "A short post on how and why to incorporate tidylog into your corpus phonetics/linguistics analyses with R"
+description = "A short post on how and why to incorporate tidylog into your corpus analyses with R"
 tags = [
     "rstats",
+    "tidyverse",
     "linguistics",
-    "research",
+    "vot",
 ]
 categories = [
 	"tutorial",
 	]
+thumbnail= "/images/profile.jpg"
 +++
 
 Last week, [I asked #rstats twitter](https://twitter.com/khia_johnson/status/1375205038721658881) for a bit of help with something that has *always* felt clunky in my R code but was never annoying enough to actually fix. In corpus phonetics, you typically start with a large data set, make measurements, and then use informed criteria to filter out errors to the best of your ability, because measurements can be wrong. When you go to share your findings, you need to report how many items were removed (and why). To do this, you have to keep track. Sure, alternating between `filter()` and `print(nrows(df))` works, but it's clunky. I'm starting to think that maybe I should have been annoyed earlier. <!--more-->

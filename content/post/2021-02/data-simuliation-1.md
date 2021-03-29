@@ -5,6 +5,7 @@ date = "2021-02-10"
 description = "A first go at data simulation"
 tags = [
     "rstats",
+    "tidyverse",
     "simulation",
     "vot"
 ]

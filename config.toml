@@ -20,7 +20,7 @@ favicon = "/favicons/"
 indexDateFormat = "Jan 2, 2006"
 listDateFormat = "Jan 2"
 singleDateFormat = "Jan 2, 2006"
-disableThemeSwitcher = true
+disableThemeSwitcher = false
 
 [params.utterances]
 repo = "khiajohnson/website"

@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "You should use tidylog in your corpus phonetics workflow"
 date = "2021-03-29"
-description = "A short post on how and why to incorporate tidylog in your linguistic analysis with R"
+description = "A short post on how and why to incorporate tidylog into your corpus phonetics/linguistics analyses with R"
 tags = [
     "rstats",
     "linguistics",

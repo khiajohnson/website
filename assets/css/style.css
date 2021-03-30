@@ -24,20 +24,24 @@
 html[data-theme='dark'] {
     --bg-color: #292a2d;
     --secondary-bg-color: #2c2d32;
-    --heading-color: rgb(169, 169, 179);
-    --body-color: rgb(169, 169, 179);
+    --heading-color: rgb(184, 184, 198);;
+    --body-color: rgb(184, 184, 198);;
     --post-color: rgba(0, 0, 0, 0.44);
     --border-color: rgb(38, 38, 38);
-    --form-border-color: rgb(169, 169, 179);
+    --form-border-color: rgb(184, 184, 198);;
     --form-button-hover-border-color: #fff;
     --pre-bg-color: rgb(53, 53, 60);
     --nav-text-color: rgb(191, 191, 191);
     --tag-color: rgb(191, 191, 191);
-    --blockquote-text-color: #808080;
+    --blockquote-text-color:rgb(184, 184, 198);;
     --blockquote-border-color: #424242;
     --hover-color: #738eb8;
     --link-color: #849cc1;
     --button-hover-color: #405b8540;
+    --chr-n-color: rgb(231, 231, 242);
+    --chr-nn-color: rgb(231, 231, 242);
+    --chr-p-color: rgb(231, 231, 242);
+=
 }
 
 sup, sub {

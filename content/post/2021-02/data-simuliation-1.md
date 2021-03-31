@@ -46,6 +46,7 @@ So in this simulation, I'm considering the relationship between how three differ
 In terms of the simulation, that means I need to be able to set up different configurations of within-individual, within-language structure, and then explore whether the proposed analysis can address the question I'm asking. Since this is a post that's only focused on the simulation part, and there will be a paper coming eventually... I'll only include the simulation bit here. It's not exactly *elegant* code, but it does what I need it to.
 
 So, you'll want to start out by loading the tidyverse, and setting up some varible for how big of a data frame you want to generate. This is currently toy-sized.
+
 ```r
 library(tidyverse)
 
@@ -54,6 +55,7 @@ n_obs <- 100 # per phone
 ```
 
 Next up, build the data frame. This is set up to tweak individual language means, and then follows some basic aerodynamic constraints. The variable of interest here is [(positive) Voice Onset Time](https://en.wikipedia.org/wiki/Voice_onset_time), but could really be anything you want it to be.
+
 ```r
 df <- data.frame(subj = seq(1, n_subs, 1)) %>% 
   mutate(
@@ -82,6 +84,7 @@ df <- data.frame(subj = seq(1, n_subs, 1)) %>%
 ```
 
 And a resulting figure from one run showing density plots for each language and stop consonant. These are not R data viz defaults, but I usually set them globally so my figure code looks cleaner.
+
 ```r
 df %>%
   ggplot(aes(x = vot, color = language)) +

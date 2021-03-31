@@ -34,14 +34,14 @@ While there's obviously a lot more to say on the topic, I think some useful ques
 
 If you are working with interactions, it's probably a good idea to choose a contrast coding system that sums to zero. Schad et al. (2020) has a useful bit about that on page 17. You can check yours with a simple line of code:
 
-```{r}
+```r
 colSums(contr.treatment(3))
 colSums(contr.sum(3))
 ```
 
 If you run the above R code, you'll see that treatment (aka dummy) coding doesn't, but sum (aka deviation/effect/contrast) does. While this summing to zero business is a key feature of sum coding, it is not unique to sum coding. For example, see helmert and repeated contrasts:
 
-```{r}
+```r
 colSums(contr.helmert(3))
 colSums(contr.sdif(3)) # from the MASS package
 ```

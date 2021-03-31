@@ -24,7 +24,7 @@ Nonetheless, I think that domain-specific examples are helpful. In that spirit, 
 
 The `tidylog` package is on CRAN, so it's easy to install. Then, load it along with the tidyverse. The documentation suggests loading `tidylog` *after* `tidyverse`/`dplyr`, as it modifies a bunch of existing functions. Setting `warn.conflicts = FALSE` isn't necessary, but you know there are going to be conflicts, and  that means you don't have to look at the \*very dire\* warnings. 
 
-```{r}
+```r
 install.packages("tidylog")
 library(tidyverse)
 library(tidylog, warn.conflicts = FALSE))
@@ -34,7 +34,7 @@ library(tidylog, warn.conflicts = FALSE))
 
 Next up, load your data, and think about it, and check out the structure of the data using the handy `str()` function. I have a bunch of text-y variables, as well as two integer variables (where the unit is milliseconds). 
 
-```{r}
+```r
 vot <- read_csv('path/to/vot.csv')
 
 str(vot)
@@ -67,7 +67,7 @@ A few random things to take note of:
 
 So without further ado, this is what it looks like, and what it prints out! Elegant as.. pie 🫐🥧
 
-```{r}
+```r
 vot_filtered <- vot %>%
   tidylog::filter(prev_word != '<unk>') %>%
   tidylog::filter(vot > 15) %>%

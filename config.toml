@@ -3,7 +3,7 @@ title = "Khia A. Johnson"
 languageCode = "en-us"
 theme = "anatole"
 
-customCss = ["css/style.css", "layouts/sidebar.html"]
+customCss = ["css/style.css", "css/markupHighlight.css", "layouts/sidebar.html"]
 googleAnalytics = "UA-92518846-1"
 pygmentsCodeFences = true
 pygmentsUseClasses = true

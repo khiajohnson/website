@@ -38,10 +38,6 @@ html[data-theme='dark'] {
     --hover-color: #738eb8;
     --link-color: #849cc1;
     --button-hover-color: #405b8540;
-    --chr-n-color: rgb(231, 231, 242);
-    --chr-nn-color: rgb(231, 231, 242);
-    --chr-p-color: rgb(231, 231, 242);
-=
 }
 
 sup, sub {

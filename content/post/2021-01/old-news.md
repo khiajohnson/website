@@ -4,11 +4,11 @@ title = "Old news"
 date = "2021-01-26"
 description = "The news section from my old website."
 tags = [
-    "research",
-    "news",
+    "conferences",
+    "publications"
 ]
 categories = [
-	"scicomm", 
+	"news", 
 	]
 +++
 

@@ -30,6 +30,10 @@ draft: false
 
 🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Manuscript almost complete!*
 
+🔜 Johnson, K. A. Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Submitted.*
+
+🔜 Soo, R., Johnson, K. A., & Babel, M. Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. *Submitted.*
+
 🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
 
 🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)

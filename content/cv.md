@@ -52,7 +52,7 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 ## conference presentations
 
-🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14.
+🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/johnson-babel-isb13-abstract.pdf)
 
 🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14.
 

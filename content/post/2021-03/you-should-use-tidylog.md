@@ -26,8 +26,8 @@ The `tidylog` package is on CRAN, so it's easy to install. Then, load it along w
 
 ```r
 install.packages("tidylog")
-library(tidyverse)
-library(tidylog, warn.conflicts = FALSE))
+library("tidyverse")
+library("tidylog", warn.conflicts = FALSE))
 ```
 
 ## understand your data
@@ -35,7 +35,7 @@ library(tidylog, warn.conflicts = FALSE))
 Next up, load your data, and think about it, and check out the structure of the data using the handy `str()` function. I have a bunch of text-y variables, as well as two integer variables (where the unit is milliseconds). 
 
 ```r
-vot <- read_csv('path/to/vot.csv')
+vot <- read_csv("path/to/vot.csv")
 
 str(vot)
 

@@ -1,5 +1,6 @@
 # Hugo default output directory
 /public
-.DS_Store
+*.DS_Store
 git-notes.md
 /content/draft
+/content/code

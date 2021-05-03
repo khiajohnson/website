@@ -48,7 +48,7 @@ In terms of the simulation, that means I need to be able to set up different con
 So, you'll want to start out by loading the tidyverse, and setting up some varible for how big of a data frame you want to generate. This is currently toy-sized.
 
 ```r
-library(tidyverse)
+library("tidyverse")
 
 n_subs <- 10
 n_obs <- 100 # per phone

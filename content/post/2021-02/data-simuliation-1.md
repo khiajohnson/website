@@ -92,7 +92,7 @@ df %>%
   facet_grid(phone ~ subj)
 ```
 
-![Simulation figure](/images/sim-sample-density.jpg)
+![Figure depicting voice onset time for Language A in black and Language B in orange, for P, T, and K simulated productions by the first 10 individuals. The pattern here reflects the decisions made in simulation. P tends to be shorter than T, which tends to be shorter than K. There is individual variation in how far apart languages are.](/images/sim-sample-density.jpg)
 
 In this figure, you can see that when language B has a different VOT, it tends to be shorter, but isn't always. You can also see that there's a subtle p < t < k pattern. This was all baked in, but the visualization is a good check before moving onto testing out analyses. 
 

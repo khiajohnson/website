@@ -161,6 +161,6 @@ f.legend([Line2D([0], [0], lw=1, ls='-'), Line2D([0], [0], lw=1, ls='-')],
 
 ```
 
-![Four-panel spectral moments figure](/images/parselmouth-sibilants.png)
+![A four-panel figure depicting the four spectral moments, each with window on the x-axis. Panel A shows center of gravity with Hertz on the y-axis. Panel B shows standard deviation with Hertz on the y-axis. Panel C shows skewness with a unitless y-axis. Panel D shows kurtosis with a unitless y-axis. All panels show line plots with error bars in two colors. Blue representes [s] and orange represents [sh]. The line are mostly overlapping and jagged, given the small sample size. ](/images/parselmouth-sibilants.png)
 
 Naturally, this plot could use a bit of work, but you get the idea! The trajectories are all over the place—partly because there was zero checking for errors. But also because there are way more [s] tokens. Take this tutorial as code to get you going, rather than a finished product!

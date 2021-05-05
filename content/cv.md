@@ -20,7 +20,7 @@ draft: false
 - psycholinguistics of bilingualism (e.g., crosslinguistic influence, perceptual learning, etc.)
 - bilingualism in contact-induced sound change 
 - probabilistic reduction as an outcome of (bilingual) linguistic experience
-- corpus phonetics
+- corpus phonetics methods
 
 ## data sets
 

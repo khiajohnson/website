@@ -54,7 +54,7 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/johnson-babel-isb13-abstract.pdf)
 
-🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14.
+🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/lloy-johnson-babel-isb13-abstract.pdf)
 
 🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf)
 

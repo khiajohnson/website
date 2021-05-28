@@ -28,7 +28,7 @@ Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal D
 
 ## papers
 
-🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Manuscript almost complete!*
+🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Submitted.*
 
 🔜 Johnson, K. A. Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Submitted.*
 
@@ -56,7 +56,7 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/lloy-johnson-babel-isb13-abstract.pdf)
 
-🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf)
+🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf) [[poster]](/pdfs/johnson-babel-isbpac3-poster.pdf)
 
 Johnson, K. A. & Babel, M. (2020). The role of passage length in acoustic voice variability in bilingual speech. The 179th Meeting of the Acoustical Society of America, Virtual, December 7–11. [[poster]](/pdfs/johnson-babel-asa179-poster.pdf) [[materials]](https://osf.io/b6hpx/) 
 

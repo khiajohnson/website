@@ -28,7 +28,7 @@ Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal D
 
 ## papers
 
-🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgements are negligibly affected by social evaluations of talkers. *Submitted.*
+🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Submitted.*
 
 🔜 Johnson, K. A. Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Submitted.*
 

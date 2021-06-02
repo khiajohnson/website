@@ -30,13 +30,13 @@ Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal D
 
 🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Submitted.*
 
-🔜 Johnson, K. A. Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Submitted.*
-
-🔜 Soo, R., Johnson, K. A., & Babel, M. Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. *Submitted.*
-
 🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
 
 🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
+
+🔜 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Accepted to Interspeech 2021.* [preprint coming soon]
+
+🔜 Soo, R., Johnson, K. A., & Babel, M. (2021). Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. *Accepted to Interspeech 2021.* [preprint coming soon]
 
 Johnson, K. A., Babel, M., & Fuhrman, R. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Proceedings of Interspeech 2020, 2387–2391. doi:10.21437/Interspeech.2020-3095 [[open-access paper]](https://doi.org/10.21437/Interspeech.2020-3095) [[code]](https://osf.io/b6hpx/)
 

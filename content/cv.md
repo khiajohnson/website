@@ -52,11 +52,15 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 ## conference presentations
 
+🔜 Johnson, K. A. (2021, Accepted). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Interspeech 2021, Brno, Czechia, August 30-September 3.
+
+🔜 Soo, R., Johnson, K. A., & Babel, M. (2021, Accepted). Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. Interspeech 2021, Brno, Czechia, August 30-September 3.
+
 🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/johnson-babel-isb13-abstract.pdf)
 
 🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/lloy-johnson-babel-isb13-abstract.pdf)
 
-🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf) [[poster]](/pdfs/johnson-babel-isbpac3-poster.pdf)
+Johnson, K. A. & Babel, M. (2021). Uniformity and crosslinguistic influence in Cantonese-English bilingual stops. The 3rd International Symposium on Bilingual and L2 Processing in Adults and Children, Virtual, June 3-4. [[abstract]](/pdfs/johnson-babel-isbpac3-abstract.pdf) [[poster]](/pdfs/johnson-babel-isbpac3-poster.pdf)
 
 Johnson, K. A. & Babel, M. (2020). The role of passage length in acoustic voice variability in bilingual speech. The 179th Meeting of the Acoustical Society of America, Virtual, December 7–11. [[poster]](/pdfs/johnson-babel-asa179-poster.pdf) [[materials]](https://osf.io/b6hpx/) 
 

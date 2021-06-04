@@ -34,9 +34,9 @@ Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal D
 
 🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
 
-🔜 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Accepted to Interspeech 2021.* [preprint coming soon]
+🔜 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. *Accepted to Interspeech 2021.* [[preprint]](https://osf.io/4p23e/)
 
-🔜 Soo, R., Johnson, K. A., & Babel, M. (2021). Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. *Accepted to Interspeech 2021.* [preprint coming soon]
+🔜 Soo, R., Johnson, K. A., & Babel, M. (2021). Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. *Accepted to Interspeech 2021.* [[preprint]](https://osf.io/9c3w6/)
 
 Johnson, K. A., Babel, M., & Fuhrman, R. A. (2020). Bilingual acoustic voice variation is similarly structured across languages. Proceedings of Interspeech 2020, 2387–2391. doi:10.21437/Interspeech.2020-3095 [[open-access paper]](https://doi.org/10.21437/Interspeech.2020-3095) [[code]](https://osf.io/b6hpx/)
 

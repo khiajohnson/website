@@ -5,6 +5,7 @@ date = "2021-05-20"
 description = "A post describing the initial release of the SpiCE corpus"
 tags = [
     "linguistics",
+    "data",
     "research",
     "news",
 ]

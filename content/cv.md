@@ -28,7 +28,7 @@ Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal D
 
 ## papers
 
-🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Submitted.*
+🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.*
 
 🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
 
@@ -56,7 +56,7 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 🔜 Soo, R., Johnson, K. A., & Babel, M. (2021, Accepted). Sound change in spontaneous bilingual speech: A corpus study on the Cantonese n-l merger in Cantonese-English bilinguals. Interspeech 2021, Brno, Czechia, August 30-September 3.
 
-🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/johnson-babel-isb13-abstract.pdf)
+🔜 Johnson, K. A. & Babel, M. (2021, Accepted). Language contact within the bilingual: Adapting a model from sound change to crosslinguistic influence. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/johnson-babel-isb13-abstract.pdf) [[recording]](https://youtu.be/gXXJ88Rwy3Y)
 
 🔜 Lloy, A., Johnson, K. A., & Babel, M. (2021, Accepted). Examining the roles of language familiarity and bilingualism in talker recognition. The 13th International Symposium on Bilingualism (ISB13), Virtual, July 9-14. [[abstract]](/pdfs/lloy-johnson-babel-isb13-abstract.pdf)
 

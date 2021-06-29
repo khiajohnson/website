@@ -49,8 +49,8 @@ params:
 
     label:
         text: "Khia A. Johnson"
-        icon: "favicons/apple-touch-icon.png"
-        iconHeight: 25
+        # icon: "favicons/apple-touch-icon.png"
+        # iconHeight: 25
 
     # profile-mode
     profileMode:

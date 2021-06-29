@@ -2,14 +2,11 @@
 author = "Khia A. Johnson"
 title = "Old news"
 date = "2021-01-26"
-description = "The news section from my old website."
-tags = [
-    "conferences",
-    "publications"
-]
 categories = [
-	"news", 
-	]
+    "conferences",
+    "publications", 
+    "news"
+]
 +++
 
 These are short blurbs from the news section of my old website. Not a lot of detail, but there are plenty of links! Some of these items might get a more in depth treatment as I build out this blog. <!--more-->

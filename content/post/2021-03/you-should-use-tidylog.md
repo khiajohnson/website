@@ -1,16 +1,13 @@
 +++
 author = "Khia A. Johnson"
-title = "You should use tidylog in your corpus phonetics workflow"
+title = "You should use tidylog in your #rstats corpus phonetics workflow"
 date = "2021-03-29"
-description = "A short post on how and why to incorporate tidylog into your corpus analyses with R"
-tags = [
+categories = [
     "rstats",
     "tidyverse",
     "linguistics",
     "vot",
-]
-categories = [
-	"tutorial",
+    "tutorial",
 	]
 +++
 

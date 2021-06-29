@@ -2,15 +2,12 @@
 author = "Khia A. Johnson"
 title = "Creating a speech corpus: A new blog series"
 date = "2021-06-29"
-description = "Introducing a new series full of anecdotes and advice about creating a new speech data set"
-tags = [
-    "data",
-    "linguistics",
-    "research",
-]
 categories = [
 	"tutorial",
     "resources",
+    "data",
+    "linguistics",
+    "research",
 	]
 +++
 

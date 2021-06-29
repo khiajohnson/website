@@ -2,15 +2,11 @@
 author = "Khia A. Johnson"
 title = "Why write this"
 date = "2021-01-26"
-description = "An introduction of sorts for this blog."
-tags = [
+categories = [
     "introduction",
     "rstats",
     "python"
 ]
-categories = [
-	"keysmash",
-	]
 +++
 
 A blog about *language data analysis* and *communicating science*. Why write it? I think it's important to make research on language accessible, and want to get better at it... so, practice? I'll be thrilled if you like my writing and learn something too. I'm also thinking about writing the tutorials I wished existed when I first started learning, as a way to share the expertise I've gained and give back to the community. <!--more-->

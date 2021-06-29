@@ -1,8 +1,9 @@
 ---
-title: ""
-date: "2021-01-25"
+title: "research/cv"
 author: "Khia A. Johnson"
-draft: false
+hidemeta: true
+ShowShareButtons: true
+comments: false
 ---
 
 ## education

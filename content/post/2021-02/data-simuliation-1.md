@@ -2,15 +2,12 @@
 author = "Khia A. Johnson"
 title = "Simulating data: Take 1"
 date = "2021-02-10"
-description = "A first go at data simulation"
-tags = [
+categories = [
     "rstats",
     "tidyverse",
     "simulation",
-    "vot"
-]
-categories = [
-	"tutorial",
+    "vot",
+    "tutorial",
 	]
 +++
 

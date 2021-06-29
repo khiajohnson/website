@@ -2,13 +2,10 @@
 author = "Khia A. Johnson"
 title = "Sibilant trajectories with Python + praat-parselmouth"
 date = "2021-05-03"
-description = "A sample workflow to collect sibilant trajectory measurements in Python"
-tags = [
-    "linguistics",
-    "python"
-]
 categories = [
-	"tutorial"
+    "linguistics",
+    "python",
+    "tutorial"
 	]
 +++
 

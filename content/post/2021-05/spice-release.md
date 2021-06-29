@@ -2,14 +2,11 @@
 author = "Khia A. Johnson"
 title = "The SpiCE corpus is officially out!"
 date = "2021-05-20"
-description = "A post describing the initial release of the SpiCE corpus"
-tags = [
-    "linguistics",
-    "data",
-    "research",
-    "news",
-]
 categories = [
+  "linguistics",
+  "data",
+  "research",
+  "news",
   "resources",
 	]
 +++

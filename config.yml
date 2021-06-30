@@ -57,9 +57,9 @@ params:
         enabled: true # needs to be explicitly set
         title: Khia A. Johnson
         subtitle: |+
-          bilingual speech, corpus linguistics, language data, and social context 
-          
           phd candidate @ ubc linguistics
+          
+          bilingualism, corpus phonetics, language data, social context 
         imageUrl: "/images/profile.jpg"
         imageWidth: 200
         imageHeight: 200
@@ -86,8 +86,8 @@ params:
           url: "https://github.com/khiajohnson/"
         - name: email
           url: "mailto:khia.johnson@ubc.ca"
-        - name: other
-          url: "https://linguistics.ubc.ca/profile/khia-johnson/"
+        - name: rss
+          url: "/index.xml"
 
     analytics:
         google:

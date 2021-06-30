@@ -1,6 +1,7 @@
 {{- define "main" }}
 
 <header class="page-header">
+    {{ partial "breadcrumbs.html" . }}
     <h1>{{ .Title }}&nbsp;</h1>
     {{- if .Description }}
     <div class="post-description">
@@ -8,7 +9,7 @@
         <p>
             🧭 &nbsp;explore posts by thematic <a href="/categories" style="text-decoration: underline">categories</a> <br> 
             📆 &nbsp;browse by date using the <a href="/archives" style="text-decoration: underline">archive</a> <br>
-            🧠 &nbsp;find me on <a href="https://twitter.com/khia_johnson/" style="text-decoration: underline">twitter</a> and try my brain
+            🧠 &nbsp;find me on <a href="https://twitter.com/khia_johnson/" target="_blank" rel="noopener noreferrer" style="text-decoration: underline">twitter</a> and try my brain
         </p>
     </div>
     {{- end }}

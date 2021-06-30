@@ -17,10 +17,10 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Khia A. Johnson
-    description: "a personal website and blog"
+    description: "a personal website, online curriculum vitaw, and blog (mostly about corpus linguistics)"
     keywords: [Blog, Portfolio, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics]
     author: Khia A. Johnson
-    images: ["favicons/apple-touch-icon.png"]
+    images: ["images/memoji.png"]
     DateFormat: "2 Jan 2006"
     defaultTheme: light # auto, dark, light
     disableThemeToggle: true
@@ -32,7 +32,7 @@ params:
     ShowCodeCopyButtons: true
     disableSpecial1stPost: true
     disableScrollToTop: false
-    comments: false
+    comments: false #added directly to single.html
     hidemeta: false
     hideSummary: false
     showtoc: false
@@ -57,9 +57,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Khia A. Johnson
         subtitle: |+
-          phd candidate @ ubc linguistics
-          
-          bilingualism, corpus phonetics, language data, social context 
+          👋🏼 I'm a Ph.D. Candidate @ UBC Linguistics. I'm curious about bilingualism, phonetics, voice, corpus linguistics, language technology, and how social context impacts all of these areas. I mostly blog about (working with) speech data.
         imageUrl: "/images/profile.jpg"
         imageWidth: 200
         imageHeight: 200

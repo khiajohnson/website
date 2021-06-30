@@ -63,7 +63,7 @@ params:
         imageHeight: 200
         imageTitle: Headshot of Khia A. Johnson
         buttons:
-            - name: "research/cv"
+            - name: "cv"
               url: cv
             - name: "blog"
               url: post
@@ -125,7 +125,7 @@ outputs:
 menu:
     main:
         - identifier: cv
-          name: research/cv
+          name: cv
           url: /cv/
           weight: 10
         - identifier: blog

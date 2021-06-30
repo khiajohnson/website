@@ -1,7 +1,7 @@
 ---
-title: "search" # in any language you want
+title: "looking for something?" # in any language you want
 layout: "search" # is necessary
 url: "/search"
-description: "looking for something? 🪄✨"
+description: "🪄✨ search "
 summary: "search"
 ---

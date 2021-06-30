@@ -6,6 +6,7 @@ categories = [
     "python",
     "sqlite",
     "praat",
+    "corpus-phonetics"
 	]
 +++
 

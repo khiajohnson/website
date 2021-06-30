@@ -32,7 +32,7 @@ params:
     ShowCodeCopyButtons: true
     disableSpecial1stPost: true
     disableScrollToTop: false
-    comments: false #added directly to single.html
+    comments: true #added directly to single.html
     hidemeta: false
     hideSummary: false
     showtoc: false

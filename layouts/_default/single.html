@@ -46,6 +46,7 @@
     {{- end }}
   </footer>
 
+  {{- if (.Param "comments") }}
   <script src="https://utteranc.es/client.js"
         repo="khiajohnson/website"
         issue-term="pathname"
@@ -54,6 +55,7 @@
         crossorigin="anonymous"
         async>
   </script>
+  {{- end }}
 
 </article>
 

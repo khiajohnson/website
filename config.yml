@@ -60,7 +60,7 @@ params:
           bilingual speech, corpus linguistics, language data, and social context 
           
           phd candidate @ ubc linguistics
-        imageUrl: "images/profile.jpg"
+        imageUrl: "/images/profile.jpg"
         imageWidth: 200
         imageHeight: 200
         imageTitle: Headshot of Khia A. Johnson
@@ -69,8 +69,8 @@ params:
               url: cv
             - name: "blog"
               url: post
-            - name: "categories"
-              url: categories
+            - name: "search"
+              url: search
 
     # home-info mode
     # homeInfoParams:
@@ -134,10 +134,13 @@ menu:
           name: blog
           url: /post/
           weight: 20
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 30
+        # - identifier: categories
+        #   name: categories
+        #   url: /categories/
+        #   weight: 30
+        - identifier: search
+          name: search
+          url: search
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

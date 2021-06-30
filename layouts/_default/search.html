@@ -2,7 +2,12 @@
 
 <header class="page-header">
     <h1>{{ .Title }}&nbsp;</h1>
-    
+    {{- if .Description }}
+    <div class="post-description">
+        <!-- {{ .Description }} -->
+        <p>If you'd rather browse thematically, you can explore <a href="/categories" style="text-decoration: underline">categories</a> I've tagged posts with.</p>
+    </div>
+    {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
         {{- partial "translation_list.html" . -}}

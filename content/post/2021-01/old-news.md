@@ -3,8 +3,6 @@ author = "Khia A. Johnson"
 title = "Old news"
 date = "2021-01-26"
 categories = [
-    "conferences",
-    "publications", 
     "news"
 ]
 +++

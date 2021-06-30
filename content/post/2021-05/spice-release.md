@@ -3,11 +3,8 @@ author = "Khia A. Johnson"
 title = "The SpiCE corpus is officially out!"
 date = "2021-05-20"
 categories = [
-  "linguistics",
-  "data",
-  "research",
+  "corpus-phonetics",
   "news",
-  "resources",
 	]
 +++
 

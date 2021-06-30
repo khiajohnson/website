@@ -3,9 +3,9 @@ author = "Khia A. Johnson"
 title = "Sibilant trajectories with Python + praat-parselmouth"
 date = "2021-05-03"
 categories = [
-    "linguistics",
     "python",
-    "tutorial"
+    "praat",
+    "corpus-phonetics"
 	]
 +++
 

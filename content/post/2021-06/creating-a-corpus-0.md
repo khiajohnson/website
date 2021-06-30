@@ -3,11 +3,8 @@ author = "Khia A. Johnson"
 title = "Creating a speech corpus: A new blog series"
 date = "2021-06-29"
 categories = [
-	"tutorial",
-    "resources",
-    "data",
-    "linguistics",
-    "research",
+	"corpus-phonetics",
+    "corpus-creation-series"
 	]
 +++
 

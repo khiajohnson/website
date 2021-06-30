@@ -6,7 +6,6 @@ categories = [
     "python",
     "sqlite",
     "praat",
-    "tutorial",
 	]
 +++
 

@@ -4,10 +4,8 @@ title = "You should use tidylog in your #rstats corpus phonetics workflow"
 date = "2021-03-29"
 categories = [
     "rstats",
-    "tidyverse",
-    "linguistics",
     "vot",
-    "tutorial",
+    "corpus-phonetics"
 	]
 +++
 

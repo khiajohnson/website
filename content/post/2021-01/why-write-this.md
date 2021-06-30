@@ -3,9 +3,7 @@ author = "Khia A. Johnson"
 title = "Why write this"
 date = "2021-01-26"
 categories = [
-    "introduction",
-    "rstats",
-    "python"
+    "introduction"
 ]
 +++
 

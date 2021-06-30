@@ -4,10 +4,9 @@ title = "Simulating data: Take 1"
 date = "2021-02-10"
 categories = [
     "rstats",
-    "tidyverse",
     "simulation",
     "vot",
-    "tutorial",
+    "corpus-phonetics"
 	]
 +++
 

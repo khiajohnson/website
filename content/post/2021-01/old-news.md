@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "Old news"
 date = "2021-01-26"
-categories = [
+tags = [
     "news"
 ]
 +++
@@ -19,4 +19,4 @@ These are short blurbs from the news section of my old website. Not a lot of det
 - **March 27, 2020**: I'll be presenting a poster on [Uniformity and crosslinguistic influence in Cantonese-English bilingual stops](/pdfs/johnson-babel-isbpac3-abstract.pdf) at [ISBPAC3](https://www.isbpac.org/), whenever it gets rescheduled. 🗓
 - **March 23, 2020**: New paper! [Lexically-guided perceptual learning in Cantonese-English bilinguals](https://asa.scitation.org/doi/10.1121/10.0000942) was published in JASA Express Letters.
 
-News older than this never made it on the website, so you'll have to guess? Ask me? Extrapolate from my [cv](/pdfs/johnson-cv.pdf), or something.. 🙃
+News older than this never made it on the website, so you'll have to guess? Ask me? Extrapolate from my [cv](/cv), or something.. 🙃

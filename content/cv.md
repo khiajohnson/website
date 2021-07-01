@@ -1,15 +1,15 @@
 ---
-title: "research/cv"
+title: "Curriculum vitae"
 author: "Khia A. Johnson"
 hidemeta: true
 comments: false
 ---
 
-### data
+## Data
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 
-### papers
+## Papers
 
 🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.*
 
@@ -33,7 +33,7 @@ Johnson, K. A., Mellesmoen, G. M., Lo, R. Y.-H., & Gick, B. (2018). Prior pronun
 
 Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using multimedia resources to integrate ultrasound visualization for pronunciation instruction into postsecondary language classes. Journal of Linguistics and Language Teaching, 8(2), 173–188. [[open-access paper]](https://sites.google.com/site/linguisticsandlanguageteaching/home-1/volume-8-2017-issue-2/volume-8-2017-issue-2---article-bliss-et-al)
 
-### talks + posters
+## Presentations
 
 🔜 Johnson, K. A. (2021, Accepted). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Interspeech 2021, Brno, Czechia, August 30-September 3.
 
@@ -68,7 +68,7 @@ Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cant
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, USA,
 September 1–2.
 
-### education
+## Education
 
 🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
 

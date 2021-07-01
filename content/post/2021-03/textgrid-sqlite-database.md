@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "TextGrid ⇢ SQLite database in a few steps"
 date = "2021-03-23"
-categories = [
+tags = [
     "python",
     "sqlite",
     "praat",
@@ -12,7 +12,7 @@ categories = [
 
 So you want to work with annotated speech? I find many (not all!) purpose-built tools for corpus phonetics to be slow, buggy, inflexible, or incomplete, while simultaneously promising to do way more than I *actually* need. Building a SQLite database from `.TextGrid` files ended up being a straightforward solution, and it wasn't hard to do. Here's a quick tutorial.<!--more-->
 
-### before you start...
+## Before you start...
 
 I'm going to assume that you know some Python. To do this tutorial, you will need:
 
@@ -34,7 +34,7 @@ import pandas as pd
 from textgrid import TextGrid, IntervalTier
 ```
 
-### read in your textgrids
+## Read in your textgrids
 
 My corpus consists of a folder containing one `.wav` and one `.TextGrid` file&mdash;with the same base name&mdash;per talker. Each `.TextGrid` has three consistently named tiers. You could revise the code to deal with differently-named tiers, but that's outside the scope here). In order, the tiers are:
 
@@ -72,7 +72,7 @@ for f in tg_files:
     	)
 ```
 
-### convert to pandas
+## Convert to pandas
 
 Pandas makes this part easy. The only "fancy" part is that I'm adding column names.
 
@@ -91,7 +91,7 @@ phones = pd.DataFrame(
 	)
 ```
 
-### building your (first?) database
+## Building your (first?) database
 
 Now that you have three pandas dataframes ready to go, it's time to create the SQLite database. The following line of code does two things. It the `.db` file does not already exist, it first creates a new empty database. Then, it opens a "connection" to the database. Which you need to do before you interact with it. Here's a bad analogy: you keep some stuff in a drawer, and you need to open it to take any combination of the things out. You don't, however, have to take everything out, when you just wanted the cozy socks... like I said, not a great analogy, but maybe it helps? What you need to know is that the connection is an object you will interact with, and it's called `con`.
 
@@ -108,7 +108,7 @@ phones.to_sql('phones', con)
 ```
 And that's it. You might not know how to work with it yet, but that's how to make a SQLite database from textgrids. 
 
-### a few queries to get started
+## A few queries to get started
 
 There are a *lot* of resources out there for learning SQL. I'll give a few basic example queries here. It's yet another opportunity for pandas to shine, as it reads the output of your SQL query directly into a pandas dataframe 🙃
 

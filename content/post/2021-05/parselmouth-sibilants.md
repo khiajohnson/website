@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "Sibilant trajectories with Python + praat-parselmouth"
 date = "2021-05-03"
-categories = [
+tags = [
     "python",
     "praat",
     "corpus-phonetics"
@@ -12,6 +12,8 @@ categories = [
 Once I've identified a sample of speech sounds that I want to analyze, the next step is to do that analysis. There are obviously many ways to go about this process. Here, I'll walk through an example of measuring sibilant trajectories with the fantastic `praat-parselmouth` Python package. It's my current favorite technique for avoiding Praat scripting.
 
  <!--more-->
+
+ ## The setup
 
 This tutorial post will walk through a workflow with `praat-parselmouth` in Python. I'm going to assume that you already know [Praat](https://www.fon.hum.uva.nl/praat/), and have a speech dataset with:
 - `.wav` audio files
@@ -35,6 +37,8 @@ from parselmouth import Sound
 from parselmouth.praat import call
 from textgrid import IntervalTier, TextGrid
 ```
+
+## Read + wrangle your data
 
 Next up, you'll need to specify where to find your data. I'm using a small data set from the [ALLSTAR corpus](https://groups.linguistics.northwestern.edu/speech_comm_group/allsstar2/#!/)—specifically, sentences from *Le Petit Prince* produced by L1 English speakers. 
 
@@ -77,6 +81,8 @@ for p in sibs.path.unique():
     sounds[p] = Sound(p)
 ```
 
+## Write your custom function 🪄
+
 The last step before making measurements is to write the function that gets them for you. The workhorse used in the function below is `call()` from `parselmouth-praat`—it's a general purpose function that calls on the specified Praat function. While the number, type, and order of arguments will depend on which function you want to use, you can always grab the defaults with the help of Praat's "paste history" tool. In general, using `call()` looks like this:
 
 ```py
@@ -105,6 +111,8 @@ def get_spectral_moments(row):
                     'cog': cog, 'std': std, 'skw': skw, 'kur': kur}])
     return data
 ```
+
+## Time to run (+save, +visualize)
 
 Now that you have the function, it's time to use it. The following code chunk runs `get_spectral_moments()`, expands the dictionary output, so each measure has a column, and saves the output to a `csv` file. It takes a little bit of time to run. If you're working on the function, and don't need to do a full run every time, make a test dataframe along the lines of `test = sibs.sample(n=5)`, and once things look good, run it on everything. 
 

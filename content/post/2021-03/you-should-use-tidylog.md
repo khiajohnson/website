@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "You should use tidylog in your #rstats corpus phonetics workflow"
 date = "2021-03-29"
-categories = [
+tags = [
     "rstats",
     "vot",
     "corpus-phonetics"
@@ -15,7 +15,7 @@ Fortunately for me, [#rstats twitter answered very quickly](https://twitter.com/
 
 Nonetheless, I think that domain-specific examples are helpful. In that spirit, here's an example of how you might fold `tidylog` into your now-more-elegant corpus phonetics workflow! 🚀
 
-## install + load
+## Install + load
 
 The `tidylog` package is on CRAN, so it's easy to install. Then, load it along with the tidyverse. The documentation suggests loading `tidylog` *after* `tidyverse`/`dplyr`, as it modifies a bunch of existing functions. Setting `warn.conflicts = FALSE` isn't necessary, but you know there are going to be conflicts, and  that means you don't have to look at the \*very dire\* warnings. 
 
@@ -25,7 +25,7 @@ library("tidyverse")
 library("tidylog", warn.conflicts = FALSE))
 ```
 
-## understand your data
+## Understand your data
 
 Next up, load your data, and think about it, and check out the structure of the data using the handy `str()` function. I have a bunch of text-y variables, as well as two integer variables (where the unit is milliseconds). 
 
@@ -52,7 +52,7 @@ So what does this mean? Well, these are excellent tools, but there are errors. M
 
 This makes for a good start, but knowing a bit more about forced alignment lets me do more. This is multilingual data, and alignment tends to be poor (= more errors) in sentences that mix languages. So if the preceding word is *unknown*, it's more likely than not a word in the other language. 
 
-## keep track of your exclusions
+## Keep track of your exclusions
 
 A few random things to take note of:
 

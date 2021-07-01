@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "Creating a speech corpus: A new blog series"
 date = "2021-06-29"
-categories = [
+tags = [
 	"corpus-phonetics",
     "corpus-creation-series"
 	]
@@ -12,7 +12,7 @@ So you want to create a new speech dataset? There are a lot of things to conside
 
  <!--more-->
 
-### What's in the series?
+## What's in the series?
 
 Since this is the introductory post, there's not going to be much in the way of *actual* advice here, but I do want to let you know what's coming. Tips, musings, and resources fall into a few clear stages:
 

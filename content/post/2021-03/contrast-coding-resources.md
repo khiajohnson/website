@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "A handful of categorical variable coding resources"
 date = "2021-03-09"
-categories = [
+tags = [
     "rstats",
 	]
 +++

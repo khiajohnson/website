@@ -2,7 +2,7 @@
 author = "Khia A. Johnson"
 title = "The SpiCE corpus is officially out!"
 date = "2021-05-20"
-categories = [
+tags = [
   "corpus-phonetics",
   "news",
 	]
@@ -14,7 +14,7 @@ The SpiCE corpus&mdash;**Sp**eech **i**n **C**antonese and **E**nglish&mdash;is 
 
 ✨[**Access the SpiCE Corpus here**](https://doi.org/10.5683/SP2/MJOXP3)✨
 
-### A few quick details
+## A few quick details
 
 SpiCE has...
 

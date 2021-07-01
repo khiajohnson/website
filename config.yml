@@ -58,9 +58,9 @@ params:
         title: Khia A. Johnson
         subtitle: |+
           👋🏼 I'm a Ph.D. Candidate @ UBC Linguistics. I'm curious about bilingualism, phonetics, voice, corpus linguistics, language technology, and how social context impacts all of these areas. I mostly blog about (working with) speech data.
-        imageUrl: "/images/profile.jpg"
-        imageWidth: 200
-        imageHeight: 200
+        imageUrl: "/images/profilesmall.jpg"
+        imageWidth: 250
+        imageHeight: 250
         imageTitle: Headshot of Khia A. Johnson
         buttons:
             - name: "cv"

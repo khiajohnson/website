@@ -20,7 +20,7 @@ params:
     description: "a personal website, online curriculum vitaw, and blog (mostly about corpus linguistics)"
     keywords: [Blog, Portfolio, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics]
     author: Khia A. Johnson
-    images: ["images/memoji.png"]
+    images: ["images/memojiwide.png", "images/memoji.png"]
     DateFormat: "2 Jan 2006"
     defaultTheme: light # auto, dark, light
     disableThemeToggle: true

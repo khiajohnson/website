@@ -16,7 +16,7 @@ So you want to create a new speech dataset? There are a lot of things to conside
 
 Since this is the introductory post, there's not going to be much in the way of *actual* advice here, but I do want to let you know what's coming. Tips, musings, and resources fall into a few clear stages:
 
-1. [Before you begin](post/2021-07/creating-a-corpus-1/)
+1. [Before you begin](/post/2021-07/creating-a-corpus-1/)
 2. Planning and practicing
 3. Data collection
 4. Transcribing words 

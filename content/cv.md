@@ -37,9 +37,11 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 ⏳ Schwarz, N., Johnson, K. A., & Babel, M. (Submitted). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English.
 
-⏳ Babel, M., Johnson, K. A., & Lloy, A. (Submitted). Bilingual talker discrimination with spontaneous speech.
+⏳ Babel, M., Johnson, K. A., & Lloy, A. (Submitted). Bilingual talker discrimination with spontaneous speech. 
 
-🔜 Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021, Accepted). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Austin, TX, USA.
+🔜 Babel, M., Johnson, K. A., & Sen, C. (2021, Accepted). Asymmetries in perceptual adjustments to non-canonical pronunciations. The 62nd Annual Meeting of the Pscyhonomic Society, New Orleans, LA, USA, November 4-7.
+
+🔜 Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021, Accepted). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Austin, TX, USA, October 19-24.
 
 🔜 Johnson, K. A. (2021, Accepted). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Interspeech 2021, Brno, Czechia, August 30-September 3.
 

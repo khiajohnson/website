@@ -83,9 +83,9 @@ params:
         - name: github
           url: "https://github.com/khiajohnson/"
         - name: email
-          url: "mailto:khia.johnson@ubc.ca"
-        - name: rss
-          url: "/index.xml"
+          url: "/contact"
+        # - name: rss
+        #   url: "/index.xml"
 
     analytics:
         google:

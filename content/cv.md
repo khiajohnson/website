@@ -1,15 +1,23 @@
 ---
-title: "Curriculum vitae"
-author: "Khia A. Johnson"
+title: "Academic CV"
+author: "Khia Johnson"
 hidemeta: true
 comments: false
 ---
 
-## Data
+###### *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
+
+### Links + affiliations
+- [Open Science Framework Profile](https://osf.io/aqwe2/)
+- [Google Scholar Profile](https://scholar.google.com/citations?user=t3d9bz8AAAAJ&hl=en)
+- [Speech-in-Context Lab](https://speechincontext.arts.ubc.ca/)
+- [University of British Columbia Linguistics](https://linguistics.ubc.ca/)
+
+### Data
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 
-## Papers
+### Papers
 
 🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
 
@@ -33,15 +41,13 @@ Johnson, K. A., Mellesmoen, G. M., Lo, R. Y.-H., & Gick, B. (2018). Prior pronun
 
 Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using multimedia resources to integrate ultrasound visualization for pronunciation instruction into postsecondary language classes. Journal of Linguistics and Language Teaching, 8(2), 173–188. [[open-access paper]](https://sites.google.com/site/linguisticsandlanguageteaching/home-1/volume-8-2017-issue-2/volume-8-2017-issue-2---article-bliss-et-al)
 
-## Presentations
+### Presentations
 
-⏳ Schwarz, N., Johnson, K. A., & Babel, M. (Submitted). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English.
+🔜 Schwarz, N., Johnson, K. A., & Babel, M. (2021, Accepted). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English. The 181st Meeting of the Acoustical Society of America, Seattle, WA, November 29-December 3.
 
-⏳ Babel, M., Johnson, K. A., & Lloy, A. (Submitted). Bilingual talker discrimination with spontaneous speech. 
+🔜 Babel, M., Johnson, K. A., & Sen, C. (2021, Accepted). Asymmetries in perceptual adjustments to non-canonical pronunciations. The 62nd Annual Meeting of the Pscyhonomic Society, Virtual, November 4-7.
 
-🔜 Babel, M., Johnson, K. A., & Sen, C. (2021, Accepted). Asymmetries in perceptual adjustments to non-canonical pronunciations. The 62nd Annual Meeting of the Pscyhonomic Society, New Orleans, LA, USA, November 4-7.
-
-🔜 Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021, Accepted). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Austin, TX, USA, October 19-24.
+🔜 Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021, Accepted). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Virtual, October 19-24.
 
 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Interspeech 2021, Brno, Czechia, August 30-September 3. [[slides]](https://khiajohnson.github.io/interspeech2021-slides)
 
@@ -75,13 +81,10 @@ Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cant
 
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, UT, USA, September 1–2.
 
-## Education
+### Education
 
 🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
 
 ⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/)
 
 🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
-
-
-**Still reading? [Here's a pdf version of my cv](/pdfs/johnson-cv.pdf).**

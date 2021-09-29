@@ -1,5 +1,5 @@
 baseURL: "https://khiajohnson.com/"
-title: Khia A. Johnson
+title: Khia Johnson
 paginate: 5
 theme: PaperMod
 
@@ -16,11 +16,11 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Khia A. Johnson
-    description: "a personal website, online curriculum vitaw, and blog (mostly about corpus linguistics)"
-    keywords: [Blog, Portfolio, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics]
-    author: Khia A. Johnson
-    images: ["images/memojiwide.png", "images/memoji.png"]
+    title: Khia Johnson
+    description: "psycholinguist, phonetician, & phd candidate | personal website"
+    keywords: [Blog, Portfolio, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
+    author: Khia Johnson
+    images: []
     DateFormat: "2 Jan 2006"
     defaultTheme: light # auto, dark, light
     disableThemeToggle: true
@@ -48,20 +48,20 @@ params:
         #safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Khia A. Johnson"
-        icon: "/images/memoji.png"
-        iconHeight: 35
+        text: "Khia Johnson"
+        icon: "/favicons/apple-touch-icon.png"
+        iconHeight: 25
 
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Khia A. Johnson
+        title: Khia Johnson
         subtitle: |+
-          👋🏼 I'm a Ph.D. Candidate @ UBC Linguistics. I'm curious about bilingualism, voice, corpus linguistics, language technology, and how social context impacts all of these areas. I occasionally blog about (working with) speech and language data.
+          Ph.D. Candidate at UBC Linguistics with expertise in speech and psycholinguistics. Interests include multilingualism, corpus linguistics, perception, production, voice technology, cognitive psychology, and how social context impacts all of these areas. 
         imageUrl: "/images/profilesmall.jpg"
         imageWidth: 250
         imageHeight: 250
-        imageTitle: Headshot of Khia A. Johnson
+        imageTitle: Headshot of Khia Johnson
         buttons:
             - name: "cv"
               url: cv

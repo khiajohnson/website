@@ -5,14 +5,6 @@ hidemeta: true
 comments: false
 ---
 
-###### *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
-
-### Links + affiliations
-- [Open Science Framework Profile](https://osf.io/aqwe2/)
-- [Google Scholar Profile](https://scholar.google.com/citations?user=t3d9bz8AAAAJ&hl=en)
-- [Speech-in-Context Lab](https://speechincontext.arts.ubc.ca/)
-- [University of British Columbia Linguistics](https://linguistics.ubc.ca/)
-
 ### Data
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
@@ -88,3 +80,6 @@ Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder?
 ⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/)
 
 🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
+
+---
+*Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*

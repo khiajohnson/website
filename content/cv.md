@@ -7,6 +7,12 @@ comments: false
 
 > *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
 
+### Education
+
+🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production*; Chair: Molly Babel)
+
+🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
+
 ### Data
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
@@ -74,11 +80,3 @@ Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhD
 Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cantonese and English. The 178th Meeting of the Acoustical Society of America, Victoria, BC, Canada, November 5–9. [[poster]](/pdfs/cheng-johnson-babel-asa176-poster.pdf)
 
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, UT, USA, September 1–2.
-
-### Education
-
-🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Cross-language (dis)similarity in Cantonese-English bilingual speech production*; Chair: Molly Babel)
-
-⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/)
-
-🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*

@@ -5,17 +5,15 @@ hidemeta: true
 comments: false
 ---
 
+> *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
+
 ### Data
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 
-### Papers
+### Publications
 
-🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
-
-🔜 Babel, M., Johnson, K. A., & Sen, C. Asymmetries in perceptual adjustments to non-canonical pronunciations. *Manuscript under review.* [[preprint]](https://osf.io/vdpbr/)
-
-🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
+Babel, M., Johnson, K. A., & Sen, C. (In press). Asymmetries in perceptual adjustments to non-canonical pronunciations. Laboratory Phonology. [[preprint]](https://osf.io/vdpbr/)
 
 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Proceedings of Interspeech 2021. doi:10.21437/Interspeech.2021-1780 [[open-access paper]](https://doi.org/10.21437/Interspeech.2021-1780)
 
@@ -33,11 +31,15 @@ Johnson, K. A., Mellesmoen, G. M., Lo, R. Y.-H., & Gick, B. (2018). Prior pronun
 
 Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using multimedia resources to integrate ultrasound visualization for pronunciation instruction into postsecondary language classes. Journal of Linguistics and Language Teaching, 8(2), 173–188. [[open-access paper]](https://sites.google.com/site/linguisticsandlanguageteaching/home-1/volume-8-2017-issue-2/volume-8-2017-issue-2---article-bliss-et-al)
 
+### Preprints
+
+🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
+
+🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
+
 ### Presentations
 
 🔜 Schwarz, N., Johnson, K. A., & Babel, M. (2021, Accepted). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English. The 181st Meeting of the Acoustical Society of America, Seattle, WA, November 29-December 3.
-
-🔜 Babel, M., Johnson, K. A., & Sen, C. (2021, Accepted). Asymmetries in perceptual adjustments to non-canonical pronunciations. The 62nd Annual Meeting of the Pscyhonomic Society, Virtual, November 4-7.
 
 🔜 Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021, Accepted). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Virtual, October 19-24.
 
@@ -80,6 +82,3 @@ Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder?
 ⚙️ 2019, [LSA 2019 Linguistic Institute, University of California, Davis](https://lsa2019.ucdavis.edu/)
 
 🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
-
----
-*Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*

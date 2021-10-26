@@ -56,8 +56,9 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Khia Johnson
-        subtitle: |+
-          Ph.D. Candidate at UBC Linguistics with expertise in speech and psycholinguistics. Interests include multilingualism, corpus linguistics, perception, production, voice technology, cognitive psychology, and how social context impacts all of these areas. 
+        subtitle: psycholinguist & ux researcher · seattle, wa · she/her/hers
+        bio:  |+
+          I currently work at Facebook Reality Labs Research doing UX research for audio and related domains in the AR/VR space. I'm a linguist with expertise in speech and psycholinguistics&mdash;my interests include speech perception/production, voice technology, multilingualism, corpus linguistics, cognitive psychology, and how social context impacts all of these areas. 
         imageUrl: "/images/profilesmall.jpg"
         imageWidth: 250
         imageHeight: 250
@@ -84,8 +85,6 @@ params:
           url: "https://github.com/khiajohnson/"
         - name: email
           url: "mailto:hello@khiajohnson.com?body=Hello Khia, "
-        - name: rss
-          url: "/index.xml"
 
     analytics:
         google:

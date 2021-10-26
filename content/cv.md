@@ -1,23 +1,15 @@
 ---
-title: "Academic CV"
+title: "CV"
 author: "Khia Johnson"
 hidemeta: true
 comments: false
 ---
 
-> *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
-
-### Education
-
-🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production*; Chair: Molly Babel)
-
-🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*
-
-### Data
+## Data
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 
-### Publications
+## Publications
 
 Babel, M., Johnson, K. A., & Sen, C. (In press). Asymmetries in perceptual adjustments to non-canonical pronunciations. Laboratory Phonology. [[preprint]](https://osf.io/vdpbr/)
 
@@ -37,13 +29,13 @@ Johnson, K. A., Mellesmoen, G. M., Lo, R. Y.-H., & Gick, B. (2018). Prior pronun
 
 Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using multimedia resources to integrate ultrasound visualization for pronunciation instruction into postsecondary language classes. Journal of Linguistics and Language Teaching, 8(2), 173–188. [[open-access paper]](https://sites.google.com/site/linguisticsandlanguageteaching/home-1/volume-8-2017-issue-2/volume-8-2017-issue-2---article-bliss-et-al)
 
-### Preprints
+## Preprints
 
 🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
 
 🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
 
-### Presentations
+## Presentations
 
 🔜 Schwarz, N., Johnson, K. A., & Babel, M. (2021, Accepted). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English. The 181st Meeting of the Acoustical Society of America, Seattle, WA, November 29-December 3.
 
@@ -80,3 +72,11 @@ Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhD
 Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cantonese and English. The 178th Meeting of the Acoustical Society of America, Victoria, BC, Canada, November 5–9. [[poster]](/pdfs/cheng-johnson-babel-asa176-poster.pdf)
 
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, UT, USA, September 1–2.
+
+> *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
+
+## Education
+
+🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production*; Chair: Molly Babel)
+
+🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*

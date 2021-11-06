@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Academic CV"
 author: "Khia Johnson"
 hidemeta: true
 comments: false

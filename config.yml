@@ -17,8 +17,8 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Khia Johnson
-    description: "psycholinguist, phonetician, & phd candidate | personal website"
-    keywords: [Blog, Portfolio, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
+    description: "psycholinguist & ux researcher | personal website"
+    keywords: [Blog, Portfolio, UX research, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
     author: Khia Johnson
     images: []
     DateFormat: "2 Jan 2006"
@@ -56,20 +56,26 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Khia Johnson
-        subtitle: psycholinguist & ux researcher · seattle, wa · she/her/hers
-        bio:  |+
-          I currently work at Facebook Reality Labs Research doing UX research for audio and related domains in the AR/VR space. I'm a linguist with expertise in speech and psycholinguistics&mdash;my interests include speech perception/production, voice technology, multilingualism, corpus linguistics, cognitive psychology, and how social context impacts all of these areas. 
+        bio: |+
+          ux researcher @ meta's reality labs research 
+        
+          🎓 almost a linguistics phd 
+          
+          📍 based in seattle &nbsp; 👩🏻‍💻 she/her/hers
+
         imageUrl: "/images/profilesmall.jpg"
         imageWidth: 250
         imageHeight: 250
         imageTitle: Headshot of Khia Johnson
-        buttons:
-            - name: "cv"
-              url: cv
-            - name: "blog"
-              url: post
-            - name: "search"
-              url: search
+        # buttons:
+        #     - name: "about"
+        #       url: about
+        #     - name: "cv"
+        #       url: cv
+        #     - name: "blog"
+        #       url: post
+        #     - name: "search"
+        #       url: search
 
     # home-info mode
     # homeInfoParams:
@@ -84,7 +90,7 @@ params:
         - name: github
           url: "https://github.com/khiajohnson/"
         - name: email
-          url: "mailto:hello@khiajohnson.com?body=Hello Khia, "
+          url: "mailto:hello@khiajohnson.com"
 
     analytics:
         google:
@@ -123,14 +129,18 @@ outputs:
 
 menu:
     main:
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 10
         - identifier: cv
           name: cv
           url: /cv/
-          weight: 10
+          weight: 20
         - identifier: blog
           name: blog
           url: /post/
-          weight: 20
+          weight: 30
         # - identifier: categories
         #   name: categories
         #   url: /categories/
@@ -138,6 +148,7 @@ menu:
         - identifier: search
           name: search
           url: search
+          weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

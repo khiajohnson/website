@@ -37,9 +37,9 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 ## Presentations
 
-🔜 Schwarz, N., Johnson, K. A., & Babel, M. (2021, Accepted). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English. The 181st Meeting of the Acoustical Society of America, Seattle, WA, November 29-December 3.
+Schwarz, N., Johnson, K. A., & Babel, M. (2021). Exploring the variable efficacy of Google speech-to-text with spontaneous bilingual speech in Cantonese and English. The 181st Meeting of the Acoustical Society of America, Seattle, WA, November 29-December 3. [[poster]](/pdfs/schwarz-johnson-babel-asa181-poster.pdf)
 
-🔜 Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021, Accepted). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Virtual, October 19-24.
+Johnson, K. A., Soo, R., Lee, T. & Babel, M. (2021). Cross-linguistic influence in spontaneous bilingual speech: Examining language dominance and usage patterns on the Cantonese n-l merger in Cantonese-English bilinguals. New Ways of Analyzing Variation 49, Virtual, October 19-24.
 
 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Interspeech 2021, Brno, Czechia, August 30-September 3. [[slides]](https://khiajohnson.github.io/interspeech2021-slides)
 

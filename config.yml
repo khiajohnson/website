@@ -57,23 +57,23 @@ params:
         enabled: true # needs to be explicitly set
         title: Khia Johnson
         bio: |+
-          ux researcher @ meta's reality labs research 
+          ux researcher @ reality labs research 
         
-          🎓 almost a linguistics phd 
+          🎓 almost a ubc linguistics phd 
           
           📍 based in seattle &nbsp; 👩🏻‍💻 she/her/hers
 
         imageUrl: "/images/profilesmall.jpg"
         imageWidth: 250
         imageHeight: 250
-        imageTitle: Headshot of Khia Johnson
-        # buttons:
-        #     - name: "about"
-        #       url: about
-        #     - name: "cv"
-        #       url: cv
-        #     - name: "blog"
-        #       url: post
+        imageTitle: Headshot of Khia Joh
+        buttons:
+            - name: "about"
+              url: about
+            - name: "cv"
+              url: cv
+            - name: "blog"
+              url: post
         #     - name: "search"
         #       url: search
 

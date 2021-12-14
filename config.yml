@@ -55,23 +55,25 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Khia Johnson
+        title: Dr. Khia Johnson
+        subtitle: (she/her/hers)
         bio: |+
-          ux researcher @ reality labs research 
+
+          👩🏻‍💻 UX Researcher @ Reality Labs Research
+
+          📍 Based in Seattle, WA &nbsp; 
         
-          🎓 almost a ubc linguistics phd 
-          
-          📍 based in seattle &nbsp; 👩🏻‍💻 she/her/hers
+          🎓 PhD from UBC Linguistics &nbsp;          
 
         imageUrl: "/images/profilesmall.jpg"
         imageWidth: 250
         imageHeight: 250
-        imageTitle: Headshot of Khia Joh
+        imageTitle: Headshot of Khia Johnson
         buttons:
             - name: "about"
               url: about
-            - name: "cv"
-              url: cv
+            - name: "publications"
+              url: publications
             - name: "blog"
               url: post
         #     - name: "search"
@@ -133,9 +135,9 @@ menu:
           name: about
           url: /about/
           weight: 10
-        - identifier: cv
-          name: cv
-          url: /cv/
+        - identifier: publications
+          name: publications
+          url: /publications/
           weight: 20
         - identifier: blog
           name: blog
@@ -146,7 +148,7 @@ menu:
         #   url: /categories/
         #   weight: 30
         - identifier: search
-          name: search
+          name: 🔍
           url: search
           weight: 40
 

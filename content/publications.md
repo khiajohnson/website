@@ -1,17 +1,19 @@
 ---
-title: "Academic CV"
+title: "Publications"
 author: "Khia Johnson"
 hidemeta: true
 comments: false
 ---
 
-## Data
+## Dissertation + Data
+
+Johnson, K. A. (2021). Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production. [[GitHub repository]](https://github.com/khiajohnson/dissertation) [[slides]](/pdfs/johnson-defense.pdf)
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 
-## Publications
+## Papers
 
-Babel, M., Johnson, K. A., & Sen, C. (In press). Asymmetries in perceptual adjustments to non-canonical pronunciations. Laboratory Phonology. [[preprint]](https://osf.io/vdpbr/)
+Babel, M., Johnson, K. A., & Sen, C. (2021). Asymmetries in perceptual adjustments to non-canonical pronunciations. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 12(1): 19, pp. 1–43. doi:10.16995/labphon.6442 [[open-access paper]](https://doi.org/10.16995/labphon.6442)
 
 Johnson, K. A. (2021). Leveraging the uniformity framework to examine crosslinguistic similarity for long-lag stops in spontaneous Cantonese-English bilingual speech. Proceedings of Interspeech 2021. doi:10.21437/Interspeech.2021-1780 [[open-access paper]](https://doi.org/10.21437/Interspeech.2021-1780)
 
@@ -31,9 +33,9 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 
 ## Preprints
 
-🔜 Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
+Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
 
-🔜 Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
+Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
 
 ## Presentations
 
@@ -74,9 +76,3 @@ Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cant
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, UT, USA, September 1–2.
 
 > *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*
-
-## Education
-
-🔜 2016–present, PhD in [Linguistics, University of British Columbia](https://linguistics.ubc.ca/) (Title: *Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production*; Chair: Molly Babel)
-
-🎓 2013, BA in [Linguistics, University of Washington](https://linguistics.washington.edu/), *Magna Cum Laude*

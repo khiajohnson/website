@@ -6,7 +6,7 @@
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         <h1>{{ .title | default $.Site.Title | markdownify }}</h1>
-        <!-- <h5 style="margin-bottom: 0.75em;">{{ .subtitle | markdownify }}</h5> -->
+        <h5 style="margin-bottom: 0.75em;">{{ .subtitle | markdownify }}</h5>
         <span style="font-size: medium;">{{ .bio | markdownify }}</span>
         {{- partial "social_icons.html" $.Site.Params.socialIcons -}}
 

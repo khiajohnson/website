@@ -11,4 +11,6 @@ I successfully defended my PhD [dissertation](https://github.com/khiajohnson/dis
 
 I have a strong foundation in corpus-based and experimental quantitative research methods. I use both R and Python and like to think deeply about causal relationships, applying scientific inference to real, hard problems. I occasionally [blog](/post/) about these topics. 
 
-If you are a linguistics, psychology, or social sciences grad student thinking about making the jump to the tech industry, I'm always happy to share my experiences and knowledge. I care deeply about access to information, working on diverse teams, and love mentoring&mdash;as both mentor and mentee. You can connect with me on [Twitter](https://twitter.com/khia_johnson/) (faster), [LinkedIn](https://www.linkedin.com/in/khiajohnson/), or by [email](mailto:hello@khiajohnson.com). 
+If you are a linguistics, psychology, or social sciences grad student thinking about making the jump to the tech industry, I'm always happy to share my experiences and knowledge. I care deeply about access to information, working on diverse teams, and love mentoring&mdash;as both mentor and mentee. You can connect with me by any of the methods listed below. Be sure to tell me a bit about yourself and what you study, and ask for my Calendly. 
+
+Connect with me on Twitter [@khia_johnson](https://twitter.com/khia_johnson/) (I usually answer DMs), [LinkedIn](https://www.linkedin.com/in/khiajohnson/), or by email at [hello@khiajohnson.com](mailto:hello@khiajohnson.com). 

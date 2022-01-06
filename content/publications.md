@@ -7,7 +7,7 @@ comments: false
 
 ## Dissertation + Data
 
-Johnson, K. A. (2021). Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production. [[GitHub repository]](https://github.com/khiajohnson/dissertation) [[slides]](/pdfs/johnson-defense.pdf)
+Johnson, K. A. (2021). Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production. [[dissertation]](http://hdl.handle.net/2429/80517) [[GitHub repository]](https://github.com/khiajohnson/dissertation) [[slides]](/pdfs/johnson-defense-slides.pdf)
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 

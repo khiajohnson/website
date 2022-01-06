@@ -1,5 +1,5 @@
 baseURL: "https://khiajohnson.com/"
-title: Khia Johnson
+title: Khia Johnson, PhD
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Khia Johnson
+    title: Khia Johnson, PhD
     description: "psycholinguist & ux researcher | personal website"
     keywords: [Blog, Portfolio, UX research, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
     author: Khia Johnson
@@ -48,18 +48,18 @@ params:
         #safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Khia Johnson"
+        text: "Khia Johnson, PhD"
         icon: "/favicons/apple-touch-icon.png"
         iconHeight: 25
 
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: Dr. Khia Johnson
+        title: Khia Johnson, PhD
         subtitle: (she/her/hers)
         bio: |+
 
-          👩🏻‍💻 UX Researcher @ Reality Labs Research
+          👩🏻‍💻 UX Researcher @ Reality Labs Research, Audio
 
           📍 Based in Seattle, WA &nbsp; 
         

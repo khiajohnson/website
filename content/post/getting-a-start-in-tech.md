@@ -1,7 +1,7 @@
 +++
 author = "Khia A. Johnson"
 title = "Getting a start in the tech industry"
-date = "2022-04-01"
+date = "2022-04-02"
 tags = [
  "career-pathways",
  "tech"

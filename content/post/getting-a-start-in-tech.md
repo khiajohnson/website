@@ -26,7 +26,7 @@ Start by learning about what's out there, and thinking about what you might be i
 
 - Cindy Blanco's [Post-Ac Guide For Language Experts](https://postac-resources.weebly.com/)
 - Superlinguo's [Linguist Job Interviews](https://www.superlinguo.com/post/173873032222/superlinguo-linguist-job-interviews-full-list)
-- [Linguistics Career Launch](https://www.linguisticscareerlaunch.com/) (Watch for the recordings from the July 2021 bootcamp&mdash;it was *excellent*)
+- [Linguistics Career Launch](https://www.linguisticscareerlaunch.com/) -- they have captioned and uploaded (almost) all of the sessions from the July 2021 bootcamp (which was *excellent*) to the [LCL YouTube Channel](https://www.youtube.com/channel/UCNJRxM5T1SAtgT6Bhcext2Q/videos). I learned a lot from the sessions on *Getting Your First Industry Job*, *Human Language Technology* (especially if you want a primer on job titles and their varying degrees of technical skill), *Talking Types of Compensation*, *Resumes 101*, and so many others. 
 - Mark Norris' blog post ["What I (a linguist) did while searching for a job (in tech)"](https://morphosyntax.org/general/what-i-a-linguist-did-while-searching-for-a-job-in-tech/)
 - Websites like [Career Linguist](https://careerlinguist.com) or [From PhD to Life](https://fromphdtolife.com) have a mix of free resources, paid resources, and consulting services.
 - Salary comparison websites like [levels.fyi](https://www.levels.fyi/), [Glassdoor](https://www.glassdoor.com/Salaries/index.htm), or [Comparably](https://www.comparably.com/salaries)

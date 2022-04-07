@@ -37,6 +37,8 @@ Start by learning about what's out there, and thinking about what you might be i
 
 Once you've come up with a list of job titles, start exploring job ads for these titles. You can look on specific companies' websites, LinkedIn, Indeed, or any of the many job listing sites. These job ads will tell you what kinds of skills you should think about developing while you're still in grad school.
 
+Here are a bunch of job titles seen attached to linguists in the wild: Analytical Linguist, Applied Scientist, Conversation Designer, Corpus Linguist, Curriculum Designer, Data Curation Lead, Data Operations Linguist, Data Scientist, Language Data Analyst, Language Data Engineer, Language Data Researcher, Language Engineer, Learning Scientist, (Lead/Senior) Linguist, Linguist Manager, Linguistic Engineer, Linguistic Engineer, Natural Language Annotation Lead, Ontologist, Research Scientist, Speech Scientist, Strategy Linguist, Taxonimist, UX Researcher, Voice User Interface Designer... *so many!!* 
+
 #### Be find-able
 
 If you don't have a LinkedIn profile, go make one, and put some effort into setting it up for non-academic audiences. Take a look at how linguists in the networking groups I listed above present themselves. Tech/industry has a language, and you'll benefit from learning to use it. You don't have to like LinkedIn but it *is* what people use, and it will almost certainly help you. I got my first position because a recruiter reached out to me on LinkedIn and I responded promptly.

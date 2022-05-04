@@ -20,7 +20,7 @@ params:
     description: "psycholinguist & ux researcher | personal website"
     keywords: [Blog, Portfolio, UX research, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
     author: Khia Johnson
-    images: []
+    images: ["/images/profilewide.jpg", "/images/profilesmall.jpg"]
     DateFormat: "2 Jan 2006"
     defaultTheme: light # auto, dark, light
     disableThemeToggle: true
@@ -56,18 +56,14 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Khia Johnson, PhD
-        subtitle: (she/her/hers)
+        subtitle: UX Researcher • Psycholinguist • Phonetician
         bio: |+
 
-          👩🏻‍💻 UX Researcher @ Reality Labs Research, Audio
-
-          📍 Based in Seattle, WA &nbsp; 
+          I study how humans experience, perceive and interact with novel audio and communication technologies. My interests include speech perception/production, computer-mediated communication, quantitative research methods (with a splash of qual), R programming, and mentoring for graduate students considering tech careers. My pronouns are she/her/hers.
         
-          🎓 PhD from UBC Linguistics &nbsp;          
-
         imageUrl: "/images/profilesmall.jpg"
-        imageWidth: 250
-        imageHeight: 250
+        imageWidth: 225
+        imageHeight: 225
         imageTitle: Headshot of Khia Johnson
         buttons:
             - name: "about"
@@ -76,8 +72,6 @@ params:
               url: publications
             - name: "blog"
               url: post
-        #     - name: "search"
-        #       url: search
 
     # home-info mode
     # homeInfoParams:
@@ -143,10 +137,6 @@ menu:
           name: blog
           url: /post/
           weight: 30
-        # - identifier: categories
-        #   name: categories
-        #   url: /categories/
-        #   weight: 30
         - identifier: search
           name: 🔍
           url: search

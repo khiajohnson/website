@@ -56,11 +56,8 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Khia Johnson, PhD
-        subtitle: UX Research Scientist, Audio • Psycholinguist
-        bio: |+
-
-          I study how humans experience, perceive and interact with novel audio and communication technologies. My interests include speech perception/production, computer-mediated communication, quantitative research methods (with a splash of qual), R programming, and mentoring for graduate students considering tech careers. My pronouns are she/her/hers.
-        
+        subtitle: she/her/hers
+        bio: UX Research Scientist • Audio • Psycholinguist
         imageUrl: "/images/profilesmall.jpg"
         imageWidth: 225
         imageHeight: 225
@@ -79,6 +76,8 @@ params:
     #     Content: Welcome to my blog
 
     socialIcons:
+        - name: mastodon
+          url: "https://hci.social/web/@khia"
         - name: twitter
           url: "https://www.twitter.com/khia_johnson/"
         - name: linkedin

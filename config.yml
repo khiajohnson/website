@@ -20,7 +20,7 @@ params:
     description: "psycholinguist & ux research scientist | personal website"
     keywords: [Blog, Portfolio, UX research, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
     author: Khia Johnson
-    images: ["/images/profilewide.jpg", "/images/profilesmall.jpg"]
+    images: ["/images/profile.jpg"]
     DateFormat: "2 Jan 2006"
     defaultTheme: light # auto, dark, light
     disableThemeToggle: true
@@ -58,7 +58,7 @@ params:
         title: Khia Johnson, PhD
         subtitle: she/her/hers
         bio: UX Research Scientist • Audio • Psycholinguist
-        imageUrl: "/images/profilesmall.jpg"
+        imageUrl: "/images/profile.jpg"
         imageWidth: 225
         imageHeight: 225
         imageTitle: Headshot of Khia Johnson

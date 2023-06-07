@@ -5,13 +5,9 @@ hidemeta: true
 comments: false
 ---
 
-## Dissertation + Data
-
-Johnson, K. A. (2021). Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production. [[dissertation]](http://hdl.handle.net/2429/80517) [[GitHub repository]](https://github.com/khiajohnson/dissertation) [[slides]](/pdfs/johnson-defense-slides.pdf)
-
-Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
-
 ## Papers
+
+Johnson, K. A., & Babel, M. (2023). The structure of acoustic voice variation in bilingual speech. Journal of the Acoustical Society of America, 153(6), 3221–3238. doi:[10.1121/10.0019659](https://www.doi.org/10.1121/10.0019659) [[paper]](/pdfs/johnson-babel-jasa-2023.pdf)
 
 Babel, M., Johnson, K. A., & Sen, C. (2021). Asymmetries in perceptual adjustments to non-canonical pronunciations. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 12(1): 19, pp. 1–43. doi:10.16995/labphon.6442 [[open-access paper]](https://doi.org/10.16995/labphon.6442)
 
@@ -30,6 +26,12 @@ Johnson, K. A. (2019). Probabilistic reduction in Spanish-English bilingual spee
 Johnson, K. A., Mellesmoen, G. M., Lo, R. Y.-H., & Gick, B. (2018). Prior pronunciation knowledge bootstraps word learning. Frontiers in Communication, 3. doi:10.3389/fcomm.2018.00001 [[open-access paper]](https://doi.org/10.3389/fcomm.2018.00001) [[materials]](https://osf.io/h2pgm/)
 
 Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using multimedia resources to integrate ultrasound visualization for pronunciation instruction into postsecondary language classes. Journal of Linguistics and Language Teaching, 8(2), 173–188. [[open-access paper]](https://sites.google.com/site/linguisticsandlanguageteaching/home-1/volume-8-2017-issue-2/volume-8-2017-issue-2---article-bliss-et-al)
+
+## Dissertation + Data
+
+Johnson, K. A. (2021). Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production. [[dissertation]](http://hdl.handle.net/2429/80517) [[GitHub repository]](https://github.com/khiajohnson/dissertation) [[slides]](/pdfs/johnson-defense-slides.pdf)
+
+Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
 
 ## Preprints
 

@@ -17,7 +17,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Khia Johnson, PhD
-    description: "psycholinguist & ux research scientist | personal website"
+    description: "ux research scientist | personal website"
     keywords: [Blog, Portfolio, UX research, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
     author: Khia Johnson
     images: ["/images/profile.jpg"]

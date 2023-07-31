@@ -7,6 +7,8 @@ comments: false
 
 ## Papers
 
+Johnson, K. A., & Babel, M. (2023). Language contact within the speaker: Phonetic variation and crosslinguistic influence. Language and Speech, 1-37. doi:10.1177/00238309231182592 [[open-access paper]](https://doi.org/10.1177/00238309231182592)
+
 Johnson, K. A., & Babel, M. (2023). The structure of acoustic voice variation in bilingual speech. Journal of the Acoustical Society of America, 153(6), 3221–3238. doi:[10.1121/10.0019659](https://www.doi.org/10.1121/10.0019659) [[paper]](/pdfs/johnson-babel-jasa-2023.pdf)
 
 Babel, M., Johnson, K. A., & Sen, C. (2021). Asymmetries in perceptual adjustments to non-canonical pronunciations. Laboratory Phonology: Journal of the Association for Laboratory Phonology, 12(1): 19, pp. 1–43. doi:10.16995/labphon.6442 [[open-access paper]](https://doi.org/10.16995/labphon.6442)
@@ -32,12 +34,6 @@ Bliss, H., Johnson, K. A., Burton, S., Yamane, N., & Gick, B. (2017). Using mult
 Johnson, K. A. (2021). Crosslinguistic similarity and structured variation in Cantonese-English bilingual speech production. [[dissertation]](http://hdl.handle.net/2429/80517) [[GitHub repository]](https://github.com/khiajohnson/dissertation) [[slides]](/pdfs/johnson-defense-slides.pdf)
 
 Johnson, K. A. (2021). SpiCE: Speech in Cantonese and English. Scholars Portal Dataverse, V1. doi:10.5683/SP2/MJOXP3 [[data]](https://doi.org/10.5683/SP2/MJOXP3) [[documentation]](https://spice-corpus.readthedocs.io/) 
-
-## Preprints
-
-Johnson, K. A. & Babel, M. Language contact within the speaker: Phonetic variation and crosslinguistic influence. *Manuscript under review.* [[preprint]](https://osf.io/jhsfc/)
-
-Johnson, K. A., Mellesmoen, G., & Babel, M. Truthfulness judgments are negligibly affected by talker traits. *Manuscript under review.* [[preprint]](https://osf.io/f8bzp)
 
 ## Presentations
 
@@ -76,5 +72,3 @@ Johnson, K. A. (2019). Building a Cantonese-English bilingual speech corpus. PhD
 Cheng, L., Johnson, K. A. & Babel, M. (2018). Bilingual word familiarity in Cantonese and English. The 178th Meeting of the Acoustical Society of America, Victoria, BC, Canada, November 5–9. [[poster]](/pdfs/cheng-johnson-babel-asa176-poster.pdf)
 
 Johnson, K. A., Mellesmoen, G., Lo, R. Y.-H., & Gick, B. (2017). Help or hinder? The complicated role of pronunciation knowledge in word learning. The Pronunciation in Second Language Learning and Teaching 9th Annual Conference, Salt Lake City, UT, USA, September 1–2.
-
-> *Please note that in my scholarly work, I use my middle initial "A." to distinguish from the other K. Johnson's in the field.*

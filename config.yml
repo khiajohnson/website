@@ -76,10 +76,10 @@ params:
     #     Content: Welcome to my blog
 
     socialIcons:
-        - name: mastodon
-          url: "https://hci.social/web/@khia"
-        - name: twitter
-          url: "https://www.twitter.com/khia_johnson/"
+        # - name: mastodon
+        #   url: "https://hci.social/web/@khia"
+        # - name: twitter
+        #   url: "https://www.twitter.com/khia_johnson/"
         - name: linkedin
           url: "https://www.linkedin.com/in/khiajohnson/"
         - name: github

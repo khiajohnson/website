@@ -7,6 +7,10 @@ comments: false
 
 ## Papers
 
+Oviedo, V. Y., Johnson, K. A., Huberth, M., & Brimijoin, W. O. (2024). Social connectedness in spatial audio calling contexts. Computers in Human Behavior Reports, 15, 100451. [[open-access paper]](https://doi.org/10.1016/j.chbr.2024.100451)
+
+Lloy, L., Patil, K. N., Johnson, K. A., & Babel, M. (2024). Language-general versus language-specific processes in bilingual voice learning. Cognition, 250, 105866. [[open-access paper]](https://doi.org/10.1016/j.cognition.2024.105866)
+
 Johnson, K. A., & Babel, M. (2023). Language contact within the speaker: Phonetic variation and crosslinguistic influence. Language and Speech, 1-37. doi:10.1177/00238309231182592 [[open-access paper]](https://doi.org/10.1177/00238309231182592)
 
 Johnson, K. A., & Babel, M. (2023). The structure of acoustic voice variation in bilingual speech. Journal of the Acoustical Society of America, 153(6), 3221–3238. doi:[10.1121/10.0019659](https://www.doi.org/10.1121/10.0019659) [[paper]](/pdfs/johnson-babel-jasa-2023.pdf)

@@ -7,11 +7,11 @@ comments: false
 
 ## Papers
 
-Soo, R., Babel, M., & Johnson, K. A. (2024). Cross-Linguistic Phonetic Variation in Bilingual Speech: Cantonese /n/ > [l] Merger in Early Cantonese–English Bilinguals. Language and Speech. doi:10.1177/00238309241280182 [[open-access paper]](https://doi.org/10.1177/00238309241280182)
+Soo, R., Babel, M., & Johnson, K. A. (2024). Cross-linguistic phonetic variation in bilingual speech: Cantonese /n/ > [l] merger in early Cantonese–English bilinguals. Language and Speech. doi:10.1177/00238309241280182 [[open-access paper]](https://doi.org/10.1177/00238309241280182)
 
 Oviedo, V. Y., Johnson, K. A., Huberth, M., & Brimijoin, W. O. (2024). Social connectedness in spatial audio calling contexts. Computers in Human Behavior Reports, 15, 100451. doi:10.1016/j.chbr.2024.100451 [[open-access paper]](https://doi.org/10.1016/j.chbr.2024.100451)
 
-Lloy, L., Patil, K. N., Johnson, K. A., & Babel, M. (2024). Language-general versus language-specific processes in bilingual voice learning. Cognition, 250, 105866. doi:10.1016/j.cognition.2024.105866[[open-access paper]](https://doi.org/10.1016/j.cognition.2024.105866)
+Lloy, L., Patil, K. N., Johnson, K. A., & Babel, M. (2024). Language-general versus language-specific processes in bilingual voice learning. Cognition, 250, 105866. doi:10.1016/j.cognition.2024.105866 [[open-access paper]](https://doi.org/10.1016/j.cognition.2024.105866)
 
 Johnson, K. A., & Babel, M. (2023). Language contact within the speaker: Phonetic variation and crosslinguistic influence. Language and Speech, 1-37. doi:10.1177/00238309231182592 [[open-access paper]](https://doi.org/10.1177/00238309231182592)
 

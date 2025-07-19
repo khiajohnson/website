@@ -18,7 +18,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Khia Johnson, PhD
     description: "ux research scientist | personal website"
-    keywords: [Blog, Portfolio, UX research, Bilingualism, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics]
+    keywords: [Portfolio, UX research, Speech, Data, Rstats, Phonetics, Voice, Corpus, Linguistics, Psycholinguistics, Hearing Science]
     author: Khia Johnson
     images: ["/images/profile.jpg"]
     DateFormat: "2 Jan 2006"
@@ -67,8 +67,8 @@ params:
               url: about
             - name: "publications"
               url: publications
-            - name: "blog"
-              url: post
+            # - name: "blog"
+            #   url: post
 
     # home-info mode
     # homeInfoParams:
@@ -84,8 +84,7 @@ params:
           url: "https://www.linkedin.com/in/khiajohnson/"
         - name: github
           url: "https://github.com/khiajohnson/"
-        - name: email
-          url: "mailto:hello@khiajohnson.com"
+
 
     analytics:
         google:
@@ -132,10 +131,10 @@ menu:
           name: publications
           url: /publications/
           weight: 20
-        - identifier: blog
-          name: blog
-          url: /post/
-          weight: 30
+        # - identifier: blog
+        #   name: blog
+        #   url: /post/
+        #   weight: 30
         # - identifier: search
         #   name: 🔍
         #   url: search

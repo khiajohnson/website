@@ -7,6 +7,8 @@ comments: false
 
 ## Papers
 
+Gijbels, L., Anderson, M. C., Miller, C. W., Johnson, K. A., & Lunner, T. (2026). Striving toward ecological validity in hearing science: evaluating a variety of hearing assessments. Frontiers in Audiology and Otology, 4. doi:10.3389/fauot.2026.1772008 [[open-access paper]](https://doi.org/10.3389/fauot.2026.1772008)
+
 Soo, R., Babel, M., & Johnson, K. A. (2024). Cross-linguistic phonetic variation in bilingual speech: Cantonese /n/ > [l] merger in early Cantonese–English bilinguals. Language and Speech. doi:10.1177/00238309241280182 [[open-access paper]](https://doi.org/10.1177/00238309241280182)
 
 Oviedo, V. Y., Johnson, K. A., Huberth, M., & Brimijoin, W. O. (2024). Social connectedness in spatial audio calling contexts. Computers in Human Behavior Reports, 15, 100451. doi:10.1016/j.chbr.2024.100451 [[open-access paper]](https://doi.org/10.1016/j.chbr.2024.100451)
